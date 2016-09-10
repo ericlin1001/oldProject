@@ -1,0 +1,110 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>中山大学图书馆——流通制度测试</title>
+<style type="text/css">
+<!--
+#QuestionList {
+	border: none;
+	position: absolute;
+	width: 500px;
+	left: 150px;
+	top: 10px;
+	padding:10px;
+}
+#Title {
+	background-image: url(LibImages/title_bg.gif);
+	background-repeat: no-repeat;
+	height: 36px;
+	width: 600px;
+	padding-top:10px;
+	padding-left:15px;
+}
+#List{
+	width:564px;
+	height:auto;
+	position:relative;
+	top:-11px;
+	left:7px;
+	padding:10px;		
+	border-bottom-style:solid;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #efefef;
+	border-bottom-color: #efefef;
+	border-left-color: #efefef;}
+-->
+</style>
+<script language="javascript">
+function Click(){
+if (event.button!=1){
+alert("");
+}
+}
+document.onmousedown=Click; 
+function clearAnswer(){	
+	document.userForm.reset();
+}
+function checkAnswer(){
+	var selectCount=0;
+	for(var i=0;i<document.userForm.Answer.length;i++){
+		if(document.userForm.Answer[i].checked==true){
+			selectCount++;
+		}
+	}		
+	if(selectCount>0){
+		document.userForm.submit();
+	}else{
+		alert("请回答题目！");
+		return false;
+	}
+} 
+function document.onkeydown(){
+//event.keyCode = 0;
+if(event.keyCode==18){
+	alert("禁用Alt键！");	
+}
+//alert(event.keyCode);
+event.returnvalue = false;
+}
+</script>
+</head>
+<body style="font-size:12px;">
+<div id="QuestionList">
+	<form name="userForm" method="post" action="/sysulib/html/LibEducateSystem.do;jsessionid=C02A1C41B664A7142F2DB191BC2C28FF?Command=CheckAnswer" onsubmit="return checkAnswer()">
+		<input type="hidden" name="UserName" value="11348052" />
+		<input type="hidden" name="PayListId" value="85613" />
+		<input type="hidden" name="RightCount" value="0" />
+        <input type="hidden" name="ErrorCount" value="0" />
+        <input type="hidden" name="QuestionCount" value="30" />
+        <input type="hidden" name="RepeatTimes" value="0" />
+        <input type="hidden" name="FinishedQuestionId" value="" />
+        <input type="hidden" name="QuestionID" value="46" />
+        <div id="Title"></div>
+        <div id="List">        
+		
+			(1)<font face="Arial">读者可否在图书馆提供电子阅览的电脑上使用自己的光盘？</font><br />			
+							
+				<input type="radio" name="Answer" value="1" />(A)&nbsp;可以<br />
+							
+				<input type="radio" name="Answer" value="2" />(B)&nbsp;不可以<br />
+			
+			<hr />         
+		<center><input type="image" src="LibImages/button_next.gif" alt="完成"/>&nbsp;</center>		
+        </div>
+	</form>
+</div>
+</body>
+</html>

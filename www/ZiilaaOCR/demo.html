@@ -1,0 +1,198 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<HEAD>
+<TITLE>ZiiLaa验证码自动识别系统</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<style>
+	body{margin:0;padding:0 0 0 0;background-color:#fff;color:#000;font-size:10.5pt;}
+	td{font-size:9pt;font-family:"Courier New"; }
+</style>
+<SCRIPT LANGUAGE="JavaScript">
+		function getOcrUrl()
+		{
+			var url = location.href;
+			var pos = url.lastIndexOf ("/");
+			return url.substring (0, pos) + "/Ocr.php";
+		}
+		
+		function ocrImage(action)
+		{
+			//read image data via applet
+			var imgUrl = document.getElementById('txt_url').value;
+			var jpeg  = document.ZiilaaBrowser.getImage(imgUrl);
+						
+			//get other OCR settings
+			var templates   = document.getElementById('templates').value;
+			var threshold   = document.getElementById('threshold').value;
+			var fontWidth   = document.getElementById('fontWidth').value;
+			var startX      = document.getElementById('startX').value;
+			var negateImage = document.getElementById('negateImage').checked;
+			var centerFont  = document.getElementById('centerFont').checked;
+			var likenessMin = document.getElementById('likenessMin').value;
+			var likenessMax = document.getElementById('likenessMax').value;
+			
+			//read OCR data via applet	
+			var ocrUrl = getOcrUrl() + "?action=" + action
+				+ "&templates=" + templates
+				+ "&data=" + jpeg 
+				+ "&threshold=" + threshold 
+				+ "&fontWidth=" + fontWidth
+				+ "&startX=" + startX
+				+ "&negateImage=" + negateImage
+				+ "&centerFont=" + centerFont
+				+ "&likenessMin=" + likenessMin
+				+ "&likenessMax=" + likenessMax;
+			var result = document.ZiilaaBrowser.postHtml(ocrUrl, "UTF-8");
+			document.getElementById('div_result').innerHTML = result;
+			
+			if (action == "train")
+				document.getElementById('div_train').style.display = "";
+			else
+				document.getElementById('div_train').style.display = "none";
+		}
+		
+		function saveImage()
+		{
+			//get the OCR settings
+			var templates = document.getElementById('templates').value;
+			var data      = document.getElementById('div_result').innerHTML;
+			var realvalue = document.getElementById('realvalue').value;
+			
+			//make the param			
+			var ocrUrl = getOcrUrl() + "?action=save"
+				+ "&templates=" + templates
+				+ "&data=" + encodeURIComponent(data)
+				+ "&realvalue=" + realvalue;
+			var result = document.ZiilaaBrowser.postHtml(ocrUrl, "UTF-8");
+			alert (result);
+		}
+
+</SCRIPT>
+</HEAD>
+
+﻿<table border="0" width="905" align='center'>
+	<tr>
+		<td align='center' width="899" colspan="3">
+		<font size='5'><b>ZiiLaa验证码自动识别系统</b></font><hr>
+		</td>
+	</tr>
+	<tr>
+		<td align='center' width="899" colspan="3">
+		<b><font size="3">设置验证码图片信息</font></b><p>验证码图片位置:<input id="txt_url" size="100"
+		value="http://checkcode.china.alibaba.com/service/checkcode?sessionID=RsJwfST7RHBU8od6IhL3AAMO2-uvCTCYM-iQE"/>
+		<br>服务器上的验证码模板文件名：<input id="templates" size="20" value="alibaba"/></td>
+	</tr>
+	<tr>
+		<td align='center' width="899" colspan="3"><hr>
+		<b><font size="3">验证码识别原理</font></b><p>目前，ZiiLaa验证码自动识别系统采用<a href="http://lab.ziilaa.com/browser/">ZiiLaaBrowser</a>模仿浏览器行为，从而实现了在浏览器侧读取验证码图片功能，这样可以保持获取验证码时的浏览器上下文环境。
+		同时，采用了<a href="http://lab.ziilaa.com/browser/">ZiiLaaBrowser</a>的跨域AJAX技术进行验证码的图片识别，
+		这样可以充分利用服务器端的强大计算和发布功能。</p>
+		<p><b>图片识别算法为模板匹配法。其识别方法如下：</b></p>
+		<ol>
+			<li>图片预处理，得到清晰无杂点的干净验证码图片。</li>
+			<li>把匹配度低的（未知）字符当成模板，存入模板库。</li>
+			<li>-1 表示识别匹配失败。否则会自动返回识别结果。</li>
+		</ol>
+		<p><b>注意：</b>一旦开始建立模板库，就不能再修改<b>图像预处理设置</b>参数。否则会导致新生成的图像和模板无法匹配现象。</td>
+	</tr>	
+	<tr>
+		<td align='center' width="891" height="53" colspan="3">		
+		<div id="div_filter" align="center">
+			<table border="0" width="713" cellspacing="0" cellpadding="0">
+				<tr>
+					<td align="center" width="100%" colspan="3"><hr>
+					<b><font size="3">验证码识别算法设置</font></b></td>
+				</tr>
+				<tr>
+					<td align="right" width="20%" rowspan="5"><b>图像预处理设置：</b></td>
+					<td align="right" width="30%">图像二值化分割阀值:</td>
+					<td width="50%">
+					<input type="text" id="threshold" size="10" value="160">取值范围：0 - 255</td>
+				</tr>
+				<tr>
+					<td align="right">单个字符宽度：</td>
+					<td><input type="text" id="fontWidth" size="10" value="24">像素数</td>
+				</tr>
+				<tr>
+					<td align="right">左侧空白的宽度：</td>
+					<td><input type="text" id="startX" size="10" value="0">像素数</td>
+				</tr>
+				<tr>
+					<td align="right">是否需要进行黑白反相操作：</td>
+					<td><input type="checkbox" id="negateImage" checked></td>
+				</tr>
+				<tr>
+					<td align="right">是否需要进行字体自动居中操作：</td>
+					<td><input type="checkbox" id="centerFont" checked></td>
+				</tr>
+				<tr>
+					<td align="right" rowspan="3"><b>图像识别设置：</b></td>
+					<td align="right">相似度小于多少就被认为无法匹配：</td>
+					<td><input type="text" id="likenessMin" size="10" value="0.95">1.0 表示全部像素完全匹配。</td>
+				</tr>
+				<tr>
+					<td align="right">相似度大于多少就被认为已经匹配：</td>
+					<td><input type="text" id="likenessMax" size="10" value="0.99">1.0 表示全部像素完全匹配。</td>
+				</tr>				
+				<tr>
+					<td align="center" colspan="2"><b>技巧：</b>你可以在<i><b>建立模板库</b></i>时调高<b><i><u>无法匹配参数</u></i></b>，这样有助于为更多的图像建立模板。在进行<b><i>全自动识别</i></b>时调低<b><u><i>无法匹配参数</i></u></b>，则有助于提高识别率，减少无法匹配的发生概率。</td>
+				</tr>				
+				</table>
+		</div>
+		</td>
+	</tr>
+	<tr>
+		<td align='center' width="891" height="7" colspan="3"><hr>	
+		<b><font size="3">验证码识别操作</font></b></td>
+	</tr>
+	<tr>
+		<td align='center' width="33%" height="7">		
+		<a href="javascript:ocrImage('filter');">1、识别过程调试</a>，从而获得合适的识别算法设置</td>
+		<td align='center' width="33%" height="7">		
+		<a href="javascript:ocrImage('train');">2、建立模板库</a>，从而建立起所有的识别模板
+		</td>
+		<td align='center' width="33%" height="7">		
+		<a href="javascript:ocrImage('read');">3、全自动识别</a>，利用前2步获得的结果进行识别
+		</td>
+	</tr>
+	<tr>	
+		<td align='center' width="899" colspan="3"><hr>
+		<b>验证码原图</b><br>
+		<object 
+			id='ZiilaaBrowser' name='ZiilaaBrowser' height='25' width='150'
+		  	classid="clsid:8AD9C840-044E-11D1-B3E9-00805F499D93"
+		  	codebase="http://java.sun.com/update/1.5.0/jinstall-1_5_0-windows-i586.cab#Version=1,5,0,0">
+		  	<param name="code" value="ZiilaaBrowser">
+		  	<param name="archive" value="http://lab.ziilaa.com/browser/ZiilaaBrowser.jar">
+		    <comment>
+		      	<embed id='ZiilaaBrowser' name='ZiilaaBrowser' height='25' width='150'
+		      		code="ZiilaaBrowser" archive="http://lab.ziilaa.com/browser/ZiilaaBrowser.jar"
+		        	type="application/x-java-applet;jpi-version=1.5.0"
+		        	pluginspage="http://java.sun.com/j2se/1.5.0/download.html"/>
+			        <noembed>
+			          	No Java Support.
+			        </noembed>
+		      	</embed>
+		    </comment>
+		</object>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="3"><b>识别结果</b><br>
+		<div id="div_result">...</div></td>
+	</tr>
+	<tr>
+		<td align="center" colspan="3">
+		<div id="div_train" style="display:none">			
+		这是<input type="text" id="realvalue" size="3"><br>
+		<a href="javascript:saveImage();">把此图片保存为模板</a>
+		</div>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="3"><hr>
+		<a href="http://lab.ziilaa.com/ocr/">lab.ziilaa.com</a>版权所有</td>
+	</tr>
+</table>
+
+</BODY>
+</HTML>

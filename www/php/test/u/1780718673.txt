@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--注册登录header-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="http://img.t.sinajs.cn/t5/style/css/module/base/frame.css?version=de26f5c5189ac984" type="text/css" rel="stylesheet" />
+<link href="http://img.t.sinajs.cn/t5/style/css/module/layer/layer_login_v5.css?version=de26f5c5189ac984" type="text/css" rel="stylesheet" />
+<link href="http://img.t.sinajs.cn/t5/style/css/pages/register/register.css?version=de26f5c5189ac984" type="text/css" rel="stylesheet" />
+<link href="http://img.t.sinajs.cn/t5/style/css/patch/register/register.css?version=de26f5c5189ac984" type="text/css" rel="stylesheet" />
+<script type="text/javascript">
+var $CONFIG = {};
+$CONFIG['lang'] = "zh-cn";
+</script><!--/注册登录header-->
+<title>新浪微博注册</title>
+</head>
+<body class="B_register">
+	<div class="W_nologin">
+    	<div class="W_reg_header">
+        	<div class="W_nologin_logo"><a href="http://weibo.com"></a></div>
+        </div>
+                <div class="W_nologin_main">
+        	        	<div class="main_title">
+	        	<div class="main_tab">
+					<a class="current" href="javascript:void(0);">个人注册</a>
+					<a href="http://e.weibo.com/register/register">企业注册</a>
+				</div>
+			</div>
+			                        <div class="W_reg_info clearfix" id="pl_account_regmobile">
+            	<div class="W_reg_form bg_reg_mobile bg_reg_auth">
+                        		                	<div class="info_list clearfix">
+                		                    	<div class="tit"><i>*</i>手机号码：</div>
+                    	<div class="inp">
+                    		<input node-type="mobile" action-data="text=使用手机号登录微博" action-type="text_copy" name="username" type="text" class="W_input" value="" />
+                        	<div class="attachment">没有手机？<a node-type="link_regemail" href="/signup/mobile.php?lang=zh-cn&inviteCode=&from=&appsrc=&backurl=&showlogo=">用邮箱注册</a></div>
+                    	</div>
+                    	<div node-type="mobile_tip" class="tips"></div>
+                    	                    </div>
+                    <div class="info_list clearfix">
+                    	<div class="tit"><i>*</i>设置密码：</div>
+                        <div class="inp">
+                        	<input node-type="password" action-data="" action-type="text_copy" name="passwd" type="password" class="W_input" value="" />
+                        </div>
+                        <div node-type="password_tip" class="tips"></div>
+                    </div>
+                    <div class="info_list clearfix">
+                    	<div class="tit"><i>*</i>昵称：</div>
+                        <div class="inp">
+                        	<input node-type="nickname" action-data="" action-type="text_copy" name="nickname" type="text" class="W_input" value="" />
+                            <div node-type="nickname_panel" class="attachment_nickname S_txt2" style="display:none;">
+                            	<p class="recommand">我们为您推荐以下昵称：</p>
+                                <div node-type="nickname_list" class="nickname clearfix"></div>
+                                <p><a href="javascript:void(0);" action-type="btn_change_nickname">都不喜欢？换一换</a>，昵称以后随时可以修改，先选一个吧。</p>
+                            </div>
+                        </div>
+                        <div node-type="nickname_tip" class="tips"></div>
+                    </div>
+                                        <input type="hidden" name="21d8a83251b73ad7a1ffc34412ba87f1" value="1a44d2474c47fd11dfa897d67aa442b3">
+                                        <input type="hidden" name="bf3acec9a0a2a691045052a3cbeaff3c" value="505174954da29bfde073886e68c36b4c">
+                                        <input type="hidden" name="33e271d746c77b698466e1908c586d18" value="477de5478042a0224117ea2e36582d6b">
+                                        <input type="hidden" name="050befe5d7ecb80c928b915b5fe0619f" value="36630debafe45e50dfe919f98af3f618">
+                                        <input type="hidden" name="816e5d45b9691f5e48d3dbbc5c7975a0" value="16410c185c6beb68d8f5205fbd57caf1">
+                                        <input type="hidden" name="c9e905441f011e529b8f3510b0a524eb" value="a682df70cc49fee23099e90291b45036">
+                                        <input type="hidden" name="f91d22b17769471595fe89bf59e2177a" value="015364ee59dbbaf2b262cdacbea778e5">
+                                        <input type="hidden" name="1a44d2474c47fd11dfa897d67aa442b3" value="71150b5dd759173d69368029c07d737b">
+                                        <input type="hidden" name="505174954da29bfde073886e68c36b4c" value="79e83eff6240e01f4fb4bfa479a386ba">
+                                        <input type="hidden" name="477de5478042a0224117ea2e36582d6b" value="aaf1bbc25abe482ccfd3e00a05937cb7">
+                                        <input type="hidden" name="36630debafe45e50dfe919f98af3f618" value="0915d8d42282ff2972a4ac9f72738357">
+                                        <input type="hidden" name="16410c185c6beb68d8f5205fbd57caf1" value="5b5da1e21bb2ca54c99877d5ace8af5e">
+                                        <input type="hidden" name="inviteCode" value=""/>
+                    <input type="hidden" name="callback" value=""/>
+                    <input type="hidden" name="mcode" value=""/>
+                    <input type="hidden" name="mbk" value=""/>
+                    <input type="hidden" name="regtime" value="1358696714"/>
+                    <input type="hidden" name="salttime" value="6e2152888db39e0a5657b3da816fc796"/>
+                    <input type="hidden" name="sinaid" value="d3f69b30533f3ff2047d76168ccfa5ca"/>
+                    <input type="hidden" name="page" value="mobile"/>
+                    <input type="hidden" name="invitesource" value="0"/>
+                    <input type="hidden" name="lang" value="zh-cn"/>
+                    <input type="hidden" name="backurl" value=""/>
+                    <input type="hidden" name="appsrc" value=""/>
+                    <input type="hidden" name="showlogo" value=""/>
+                    <!--中国用户-->
+                                        <div node-type="chinese">
+                    	                    <div class="info_list clearfix">
+	                    	<div class="tit"><i>*</i>姓名：</div>
+	                        <div class="inp">
+	                        		                        	<input node-type="realname" action-data="" action-type="text_copy" name="realname_IC" type="text" class="W_input" value="" />
+	                        		                        </div>
+	                        <div node-type="realname_tip" class="tips"></div>
+	                    </div>
+	                    <div class="info_list clearfix">
+	                    	<div class="tit"><i>*</i>身份证：</div>
+	                        <div class="inp">
+	                        		                            <input node-type="idnumber" action-data="" action-type="text_copy" name="IDcard" type="text" class="W_input" value="" />
+	                            	                            <div class="attachment"><a href="javascript:void(0);" action-type="btn_area" action-data="type=abroad">我是海外用户</a></div>
+	                        </div>
+	                        <div node-type="idnumber_tip" class="tips">
+	                        </div>
+	                    </div>
+	                </div>
+                    <!--/中国用户-->
+                    <!--海外用户-->
+                                        <div node-type="abroad" style="display:none;">
+                    	                    <div class="info_list clearfix">
+	                    	<div class="tit">姓名：</div>
+	                        <div class="inp">
+	                        		                        	<input node-type="abroadname" action-data="disabled=true&must=false" action-type="text_copy" name="realname_PP" type="text" class="W_input" value="" />
+	                        		                        </div>
+	                        <div class="tips" node-type="abroadname_tip"></div>
+	                    </div>
+	                    <div class="info_list clearfix">
+	                    	<div class="tit">护照：</div>
+	                        <div class="inp">
+	                        		                            <input name="passport" type="text" class="W_input" value="" action-type="text_copy" action-data="disabled=true&must=false" node-type="passport"/>
+	                            	                            <div class="attachment">中国公民，请选择<a href="javascript:void(0);" action-type="btn_area" action-data="type=chinese">身份证验证</a></div>
+	                        </div>
+	                        <div node-type="passport_tip" class="tips"></div>
+	                    </div>
+	                </div>
+                    <!--/海外用户-->
+                    
+                                        <div class="info_list clearfix">
+                    	<div class="tit"><i>*</i>激活码：</div>
+                    	<div class="inp active">
+                        	<a href="javascript:void(0);" class="W_btn_e" action-type="btn_sms_activation" node-type="btn_sms_activation" action-data="type=sendsms"><span>免费获取短信激活码</span></a>
+                        	<a href="javascript:void(0);" class="W_btn_e_disable" style="display:none" node-type="btn_sms_activation_disable"><span><em node-type="sms_timer">180</em>秒后重新获取短信</span></a>
+                        	<input node-type="activation" name="pincode" type="text" class="W_input" value="" />
+                        </div>
+                        <div class="tips" node-type="activation_tip">
+                        </div>
+                    </div>
+                                        <div class="info_submit clearfix">
+                        <div class="inp">
+                            <a action-type="btn_submit" class="W_btn_big" href="javascript:void(0);" refake-type="submit"><span>立即注册</span></a>
+                        </div>
+                    </div>
+                    <div class="info_list clearfix">
+                        <div class="inp verify">
+                        	<p class="agreement"><a href="/signup/v5/protocol" target="_blank">新浪微博服务使用协议</a></p>
+                            <p class="agreement"><a href="http://news.sina.com.cn/c/2012-12-29/051425921660.shtml" target="_blank">全国人大常委会关于加强网络信息保护的决定</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="W_reg_sidebar">
+                	<p class="p1 line">已有帐号，<a href="http://weibo.com/login.php">直接登录»</a></p>
+                    <p class="p2">手机快速注册</p>
+                    <p class="S_txt2">编辑短信：</p>
+                    <p class="p3"><span class="number">6-16</span>位数字</p>
+                    <p class="S_txt2">作为登录密码发送至：</p>
+                    <p class="p3"><span class="number">1069 009 088</span></p>
+                    <p class="S_txt2">即可注册成功。</p>
+                </div>
+            </div>
+            <!--注册登录footer-->
+            <div class="footer_nologin clearfix">
+	<div class="help_link">
+		<p><a href="http://help.weibo.com/?refer=didao" class="S_func1">微博客服</a><a class="S_func1" href="http://s.weibo.com/weibo/weijianyi">意见反馈</a><a class="S_func1" href="http://weibo.com/login.php?url=http%3A%2F%2Fweibo.com%2Fpub%2Fverified">微博认证及合作</a><a class="S_func1" href="http://open.weibo.com/">开放平台</a><a class="S_func1" href="http://hr.weibo.com/jobs/">微博招聘</a><a class="S_func1" href="http://news.sina.com.cn/guide/">新浪网导航</a><a class="S_func1" href="http://service.account.weibo.com/">不良信息举报</a></p>
+		<p class="S_txt2">客服电话：400 096 0960（个人） 400 098 0980（企业） (按当地市话标准计费)</p>
+		<p class="S_txt2"><i class="W_ico16 ico_weibo"></i>北京微梦创科网络技术有限公司&emsp;<a href="http://weibo.com/aj/static/jww.html">京网文[2011]0398-130号</a>&emsp;<a href="http://www.miibeian.gov.cn">京ICP证100780号</a></p>
+	</div>
+	<div class="copy">
+				<p class="W_linkb">
+			<select id="pl_content_changeLanguage" action-data="login=0">
+				<option selected="selected" value="zh-cn">中文(简体)</option>
+				<option  value="zh-tw">中文(繁体)</option>
+			</select>
+		</p>
+				<p class="S_txt2">Copyright &copy; 1996-2013 SINA</p>
+	</div>
+</div>
+<!-- SUDA_CODE_START -->
+<noscript> <img width="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt="" /> </noscript>
+<script type='text/javascript' charset="utf-8">
+(function() {
+    var doc = document,
+        wa = doc.createElement('script'),
+        s = doc.getElementsByTagName('script')[0];
+    wa.type = 'text/javascript';
+    wa.charset = 'utf-8';
+    wa.async = true;
+    wa.src = 'http://js.t.sinajs.cn/open/analytics/js/suda.js?version=de26f5c5189ac984';
+    s.parentNode.insertBefore(wa, s);
+})();
+</script>
+<!-- SUDA_CODE_END -->            <!--/注册登录footer-->
+        </div>
+    </div>
+</body>
+<script src="http://js.t.sinajs.cn/t5/register/js/page/register/mobile.js?version=de26f5c5189ac984" type="text/javascript" ></script>
+</html>

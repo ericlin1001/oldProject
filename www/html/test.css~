@@ -1,0 +1,131 @@
+.nva a:hover{
+	color:#ff0000;
+	gackground:#0000ff;
+}
+.nva a:active{
+	color:#00ff00;
+	background:#0000ff;
+}
+.nva {
+	color:#00ff00;
+	text-align: center;
+}
+#other{
+	color:#ffaaaa;
+}
+p:first-line{
+	color:#000000;
+	background:#ffffff;
+}
+p:first-letter{
+	text-transform:uppercase;
+	font-size:1em;
+	color:#00ff00;
+}
+.tw{
+	color=#000000;
+	background:#ffffff;
+}
+.xxs{
+	font-size:xx-small;
+}
+
+.xs{
+	font-size:x-small;
+}
+.s{
+	font-size:small;
+}
+.m{
+	font-size:medium;
+}
+.l{
+	font-size:large;
+}
+.xl{
+	font-size:x-large;
+	line-height:180%;
+}
+.xxl{
+	font-size:xx-large;
+}
+.textalign{
+	text-align:right;
+}
+.vtop{
+	vertical-align:top;
+}
+.vmid{
+	vertical-align:middle;
+}
+.vbot{
+	vertical-align:bottom;
+}
+em{
+	font-style:normal;
+	font-weight:bold;
+	color:#ff6600;
+	background:#ffff00;
+}
+td{
+	width:6em;
+	height:6em;
+	text-align:center;
+}
+.s1{
+	letter-spacing:0.5em;
+	word-spacing:1em;
+}
+.s2{
+	letter-spacing:0.5em;
+	word-spacing:2em;
+}
+.s3{
+	font-size:1pc;
+	letter-spacing:2em;
+	word-spacing:3em;
+}
+#sample1{
+	text-indent:0em;
+}
+
+#sample2{
+	text-indent:1em;
+}
+#sample3{
+	text-indent:4em;
+}
+#code1{
+	white-space:pre;
+}
+body{
+	margin:2em;
+	color:#ffffff;
+	background-color:#ff3300;
+	background-image:url("Penguins.jpg");
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	cursor:crosshair;
+}
+p{
+	padding:1em;
+	color:#000000;
+	background-color:#ffcc00;
+}
+div{
+	padding:1em;
+	color:#000000;
+	background-color:#ffffff;
+}
+table,input{
+	color:#ffffff;
+	background-color:#ff3300;
+}
+caption,select{
+	color:#ffffff;
+	background-color:#333399;
+}
+textarea{
+	color:#ffffff;
+	background-color:#339933;
+}

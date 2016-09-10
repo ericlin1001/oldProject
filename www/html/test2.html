@@ -1,0 +1,178 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="zh">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=gb2312">
+
+		<script src="" type="text/javascript"></script>
+		<meta http-equiv="Content-Script-Type" content="text/javascript">
+		<meta http-equiv="Content-Style-Type" content="text/css">
+		<meta http-equiv="refresh" content="100">
+		<title>test2</title>
+		<style type="text/css">
+			<!--
+			body{background-color:#ffffff;}
+			-->
+		</style>
+		<script type="text/javascript">
+			<!--
+
+			function test1(){
+				
+				window.moveTo(100,100);
+				window.close();
+				alert("onload");
+			}
+var tc=0;
+var sm1="               ";
+var sm2="abadafdfadfadf01";
+var timeid=setTimeout("",1);
+var smess=sm1+sm2;
+function mess(){
+if(tc<1000){
+tc++;
+window.status=smess;
+smess=smess.substring(2,smess.length)+smess.substring(0,2);
+cleartimeout(timeid);
+timeid=setTimeout("mess()",300);
+}else {
+	window.status="nothing";
+}
+}
+
+			//-->
+		</script>
+
+	</head>
+	<body id="mybody" onLoad="mess()">
+		<!--//		asdfasdf
+		adfasd //-->
+		<input type="button" value="onClick Event!!" onClick="alert('alert():event's type:'+event.type)">
+		<script type="text/javascript">
+			<!--
+			function evel(e){
+				alert("event:"+e.type+" happen"+"\n"+
+						"screenX:"+e.screenX+"\n"+
+						"screenY:"+e.screenY+"\n"+
+				"windowX:"+e.pageX+"\n"+
+				"windowY:"+e.pageY+"\n");
+				return true;
+			}
+function keydown(e){
+	alert(String.fromCharCode(e.which)+" has been pressed!");
+	return true;
+}
+function windowresize(){
+//	alert("resize");
+	window.resizeTo(400,400);
+}
+function windowmove(){
+	alert("move");
+	window.moveTo(50,50);
+}
+window.onmove=windowmove;
+window.onresize=windowresize;
+document.onkeydown=keydown;
+		//	document.onmousedown=evel;
+			function testcon(){
+				confirm("with yes and no");
+			}
+function testprompt(){
+	pro=prompt("userl","asdf");
+	if(pro!=null ){
+		location.href=pro;
+	}else{
+		alter("wrong");
+	}
+}
+function open1(){
+	window.open("index.html","open1","toolbar=yes,location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes");
+}
+function dow(){
+	var dw;
+	dw=window.open("","docwind1","location=false");
+	dw.document.open();
+	dw.document.write("test");
+	dw.document.close();
+}
+function clearDoc(){
+	document.open();
+	document.close();
+}
+function test3(id,color){
+	document.getElementById(id).bgcolor=color;
+	return true;
+}
+
+function GO(g){
+	location.href=g.url.value;
+}
+
+			//-->
+		</script>
+		<br>
+		<form  name="test">
+			<input type="text" name="url" value="http://" size="40">
+			<input type="button" name="CF" value="go" onClick="GO(this.form)">
+		</form>	
+		<input type="button" value="test" onClick="test3('mybody','ff0000');">
+		<a href="#" onClick="alert('alert():events type:'+event.type)">onMouseOver</a>
+		<a href="#" onMouseUp="alert('alert():events type:'+event.type)">onMouseOver</a>
+		<a href="#" onMouseDown="alert('alert():events type:'+event.type)">onMouseOver</a>
+
+	</body>
+	<script type="text/javascript">
+		<!--
+		document.write("URL:",document.links[0].href);
+document.write("<br>");
+document.write("path:",document.links[0].pathname);
+document.write("<br>");
+
+
+		document.write("screen.width:",screen.width);
+		document.write("<br>");
+		document.write("screen.height:".bold(),screen.height);
+		document.write("<br>");
+		document.write("screen.availWidth:",screen.width);
+		document.write("<br>");
+		document.write("screen.availHeight:".bold(),screen.height);
+		document.write("<br>");
+		document.write("screen.pixelDepth(bits per pixel):".bold(),screen.pixelDepth);
+		document.write("<br>");
+		document.write("screen.colorDepth(bit color):".bold(),screen.colorDepth);
+		document.write("<br>");
+		document.write("name of navigator:",navigator.appName,"<br>appCodename:",navigator.appCodeName);
+		document.write("<br>text:",navigator.appVersion);	
+		document.write("<br>userAgent:",navigator.userAgent);
+		document.write("<br>platform:",navigator.platform);
+		document.write("<br>language:",navigator.language);
+		if(navigator.javaEnabled()){
+			document.write("support java!");
+		}else{
+		//	window.alert("can't use java!");
+		}
+var L=navigator.mimeTypes.length;
+document.write("<br>");
+document.write(L);
+document.write("个".bold());
+document.write("<p>");
+document.write("<table border=\"2\">");
+document.write("<tr><th>type</th><th>instrustion</th><th>extendedName</th></tr>".bold());
+function CPlug(cp){
+	for(i=0; i<navigator.plugins.length; i++){
+		if(navigator.plugins[i].name.indexOf(cp)!=-1)return true;
+	}
+	return false;
+}
+for(i=0; i<L; i++){
+	document.write("<tr>");
+	document.write("<td>",navigator.mimeTypes[i].type,"</td>");
+	document.write("<td>",navigator.mimeTypes[i].description,"</td>");
+	document.write("<td>",navigator.mimeTypes[i].suffixes,"</td>");
+	document.write("</tr>");
+}
+document.write("</table>");
+document.write("</p>");
+		//-->
+	</script>
+</html>
+

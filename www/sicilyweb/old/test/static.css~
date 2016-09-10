@@ -1,0 +1,35 @@
+#sicily_chan {
+	right: 0px;
+	top: auto;
+	bottom: 0px;
+	position: fixed;
+}
+
+#sicilychan_body{
+	background:url(./sicilychan3_sprite.png) no-repeat 0px 0px;
+	height:450px;
+	width:300px;
+}
+
+#face {
+	height:450px;
+	width:300px;
+}
+
+#talkbox {
+	margin-left: 50px;
+}
+
+.face1 {
+	background:url(./sicilychan3_sprite.png) no-repeat -300px 0px;
+}
+
+.face2 {
+	background:url(./sicilychan3_sprite.png) no-repeat -600px 0px;
+}
+
+.face3 {
+	background:url(./sicilychan3_sprite.png) no-repeat -900px 0px;
+}
+
+

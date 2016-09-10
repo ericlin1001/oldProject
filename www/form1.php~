@@ -1,0 +1,21 @@
+<form action="http://soj.me/profile_edit.php" method="post" enctype="multipart/form-data">
+	<h1>Personal Profile Edit</h1>
+	<caption style="font-size: large"></caption>
+	<input type="hidden" name="uid" value="18673"/>
+	<input type="text" name="nickname" size="20" maxlength="20" id="nickname" value=""/>
+	<input name="email" type="text" id="email" size="50" maxlength="30" value="741@qq.com">
+	<input name="phone" type="text" id="phone" size="50" maxlength="50" value="">
+	<input name="address" type="text" id="address" size="50" maxlength="50" value="">
+	<input name="student_id" type="text" id="cn_name" size="8" maxlength="8" value="">
+	<input name="cn_name" type="text" id="cn_name" size="20" maxlength="20" value="">
+	<input name="en_name" type="text" id="en_name" size="20" maxlength="20" value="">
+	<select name="gender">
+		<option value="" selected='selected'>Unknown</option>
+		<option value="M">Male</option>
+		<option value="F">Female</option>
+	</select>
+	<input type="text" name="major" size="30" maxlength="50" id="major" value=""/>
+	<input type="text" name="grade" size="5" maxlength="5" id="grade" value="0"/>
+	<input type="text" name="class" size="10" maxlength="10" id="class" value=""/>
+	<input type="submit"/> 
+</form>

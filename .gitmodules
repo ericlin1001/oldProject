@@ -1,0 +1,3 @@
+[submodule "QtProject"]
+	path = QtProject
+	url = https://github.com/ericlin1001/oldQtASM

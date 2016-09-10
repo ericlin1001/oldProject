@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN">
+<html lang="zh">
+	<head>
+		<link rel="stylesheet" href="index.css">
+		<title>Eric's home!</title>
+	</head>
+	<body>
+		<h1>Just for fun!</h1>
+	
+				
+		<p class="red">Something I collected:<br>
+		这个<a href="flash/fool/考试.swf" target="new1">考试</a>很有趣喔~</br>
+		A special <a href="flash/fool/魔镜.swf" target="new1">魔镜</a>.<br>
+		<a href="flash/fool/最高机密.swf" target="new1">最高机密</a><br>
+		You can introduce to your friends~
+		</p>
+
+		<p>
+The things before:<br>
+		<a href="flash/五子棋5-正式.swf">五子棋5-正式.swf</a><br>
+		<span>Challenge your memory(My record is 27 level):</span><a href="flash/MemoryGame.swf">MemoryGame.swf</a><br>
+		To get the sourcecode of promblems in soj.me:
+		<a href="peek.html">peek</a><br>
+		something to remember:<br>
+		a prototype <a href="flash/DefenceGame.swf">DefenceGame.swf</a><br>
+		<a href="flash/UserDefinedVS2.swf">UserDefinedVS2.swf</a><br>
+		<a href="flash/汉诺塔.swf">汉诺塔.swf</a><br>
+		Just for fun...<a href="flash/黄金矿工三人版11.swf">黄金矿工三人版11.swf</a><br>
+		To practise add two more integer<a href="flash/加法训练.swf">加法训练.swf</a><br>
+		A interesting game i used to fascinate with.<a href="flash/逻辑推数.swf">逻辑推数.swf</a><br>
+		
+		</p>
+		
+Artificial+Intelligence+-+A+Modern+Approach,+3rd+Edition.pdf	
+		<p>If you want to make some change to this or you have any suggestions,you can contact me at: 
+		<address>QQ:463222898</address>
+		</p>
+	</body>
+</html>

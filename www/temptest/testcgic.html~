@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>cgic test</title>
+</head>
+<body>
+<h1>cgic test</h1>
+<form action="../cgi-bin/cgitest.exe" method="post">
+	<textarea name="sourceCode" rows="8" cols="35%"></textarea>
+	<input type="submit" value="Submit">
+</form>
+<form action="../cgi-bin/cgitest.exe" enctype="multipart/form-data" method="post">
+	<input type="text" name="name"/>
+	<input type="text" name="number"/>
+	<input type="file" name="myGetFile" >
+	<input type="submit" value="Submit">
+</form>
+<form action="../cgi-bin/cgitest.exe" method="post" enctype="multipart/form-data" name="form1">
+<p>
+Text Field containing Plaintext<br>
+Your Name:<input type="text" name="name">
+</p>
+<p>
+Multiple-Line Text Field<br>
+<textarea rows="3" cols=30%">Default contents go here.</textarea>
+</p>
+<p>
+Checkbox<br>
+<input type="checkbox" name="ishungry" value="hungry" checked>Hungry
+</p>
+<p>
+Text Field containing a Numeric Value
+<br>Blood Temperature (80.0-120.0):<input type="text" name="bloodTemp" value="98.6">
+<br>Text Field containing an Integer Value
+<br>Frogs Eaten:<input type="text" value="1">
+</p>
+<p>Single-SELECT
+<br><select name="colors">
+<option value="red">Red</option>
+<option value="green" checked>Green</option>
+<option value="blue">Blue</option>
+</select>
+<br>
+Multiple-SELECT
+<br><select name="pet" multiple>
+<option value="1">Pistachio</option>
+<option value="2">Walnu</option>
+<option value="3" checked>Creme</option>
+</p>
+<p>
+Exclusive Radio Button Group: Age of Truck in Years
+<input type="radio" name="trunck" value="1">1
+<input type="radio" name="trunck" value="2">2
+<input type="radio" name="trunck" value="3" checked>3
+<input type="radio" name="trunck" value="4">4
+</p>
+<p>
+Nonexclusive Checkbox Group: Voting for Zero through Four Candidates
+<input type="checkbox" name="vote" value="A">A
+<input type="checkbox" name="vote" value="B" checked>B
+<input type="checkbox" name="vote" value="C" checked>C
+<input type="checkbox" name="vote" value="D">D
+</p>
+<p>
+File Upload:
+<input type="file" name="file">(Select A Local File)
+</p>
+
+<p>
+Set a Cookie
+<p>
+<label>Cookie Name:<input name="cookieName"></label>
+<label>Cookie Value:<input name="cookieValue"></label>
+<br>
+<input type="Submit" name="submit" value="Submit Request">
+<input type="Reset" name="myreset" value="Reset Request">
+</p>
+</p>
+<p>
+Save the CGI Environment
+<p>
+Pressing this button will submit the form, then save the CGI environment so that it can be replayed later by calling cgiReadEnvironment (in a debugger, for instance).
+</p>
+<input type="button" name="save" value="Save Environment">
+</p>
+
+
+
+</body>
+</html>

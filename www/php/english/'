@@ -1,0 +1,46 @@
+<head>
+<meta http-equiv="Content-Type" content="html;charset=UTF-8">
+</head>
+<?php
+include_once 'HttpClient.php'
+?>
+<?php
+function testPreg($str,$pattern){
+	//$r=preg_match_all($pattern,$str,$res);
+	$r=preg_match($pattern,$str,$res);
+	if(!$r){
+		echo "preg_match fail";
+	}else{
+		echo "preg_match success:<br/>";
+		print_r($res);
+	}
+}
+function viewPassage($url,$name){
+	$str='<a href="./view.php?url='.$url.'">'.$name.'</a>';
+	return $str;
+}
+?>
+<form method="get" action="#">
+url:<input type="text" name="url" size="30%">
+<input type="submit">
+</form>
+
+<?php
+$_GET['url']='http://www.chinavoa.com/list-810-1.html';
+if(isset($_GET['url']) && $_GET['url']!=""){
+	$url=$_GET['url'];
+	if(preg_match('/http:\/\//',$url,$res))$url=substr($url,7);
+	preg_match('/([^`]*?)(\/[^`]*)/',$url,$res);
+	$host=$res[1];
+	$getPara=$res[2];
+	$client=new HttpClient($host);
+	$client->get($getPara);
+	$page=$client->getContent();
+	//analysing....
+	echo viewPassage('http://www.chinavoa.com/show-8144-226718-1.html','test');
+	echo '<br/>';
+	testPreg($page,'/(\[[^\]]+?\])[ \n]*<a href="([^"]*[^"]*)"([^`]*?)<\/a>/');
+}
+
+?>
+

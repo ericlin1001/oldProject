@@ -1,0 +1,87 @@
+<head>
+<meta http-equiv="Content-Type" content="html;charset=UTF-8">
+</head>
+<?php
+include_once 'HttpClient.php'
+?>
+<?php
+function testPreg($str,$pattern){
+//	$r=preg_match_all($pattern,$str,$res);
+	$r=preg_match($pattern,$str,$res);
+	if(!$r){
+		echo "preg_match fail";
+	}else{
+		echo "preg_match success:<br/>";
+		print_r($res);
+	}
+}
+function viewPassage($url,$name){
+	$str='<a target="_blank" href="./view.php?url='.$url.'">'.$name.'</a>';
+	return $str;
+}
+function generateList($url){
+	$str="";
+	if(preg_match('/http:\/\//',$url,$res))$url=substr($url,7);
+	$host=$url;$getPara='/';
+	if(preg_match('/([^`]*?)(\/[^`]*)/',$url,$res)){
+	$host=$res[1];
+	$getPara=$res[2];
+	}
+	$client=new HttpClient($host);
+	$client->get($getPara);
+	$page=$client->getContent();
+	//analysing....
+	preg_match_all('/\[[^]]*?<a href="([^]]*?)"[^]]*?>([^]]*?)<\/a>[^]]*?\][ \n\r]*<a href="([^"]*show[^"]*)"[^>]*?>([^`]*?)<\/a>/',$page,$res);
+	$categories=$res[2];
+	$urls=$res[3];
+	$names=$res[4];
+	for($i=0;$i<count($urls);$i++){
+		$str=$str."<li>";
+		$str=$str.$categories[$i].":";
+		$str=$str.viewPassage($urls[$i],$names[$i]);
+		$str=$str."</li>";
+
+		$str=$str.'<br/>';
+	}
+	if($str!="")
+		$str="<ul>".$str."</ul>";
+	return $str;
+}
+function anchor($name,$url){
+	$str='<a href="'.$url.'">'.$name.'</a>';
+return $str;
+}
+?>
+<form method="get" action="#">
+url:<input type="text" name="url" size="30%">
+<input type="submit">
+</form>
+<hr/>
+<?php
+$str="";
+$fp=fopen("data.txt","r");
+while(!feof($fp)){
+$txt=fgets($fp);
+if(preg_match('/([^:]*?):([^`]*)/',$txt,$res))
+$str=$str.anchor($res[1],'./?url='.$res[2]).'&nbsp;';
+}
+echo anchor('Home','./')."&nbsp;".$str;
+
+?>
+<?php
+//$_GET['url']='http://www.chinavoa.com/list-810-1.html';
+$url="";
+if(isset($_GET['url']) && $_GET['url']!=""){$url=$_GET['url'];}
+
+if(!isset($url) || $url==""){
+	$url='http://www.chinavoa.com';
+}
+	//echo "url=".$url;
+$str=generateList($url);
+if($str!=""){
+	echo $str;
+}else{
+	echo "<p>If nothing is presented,try other proper url.</p>";
+}
+?>
+

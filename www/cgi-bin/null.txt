@@ -1,0 +1,18 @@
+ 驱动器 E 中的卷是 E
+ 卷的序列号是 02BA-6D5F
+
+ E:\www\cgi-bin 的目录
+
+[.]                   createExe.bat         temp_cmd_result.txt
+[..]                  createOutput.bat      test - 副本.exe
+a.bat                 helloWorld.exe        test-get.cgi
+a.exe                 Koala.jpg             test-post.cgi
+a.obj                 null.txt              test.cgi
+aaatemp.exe           [output]              test.txt
+afasd.txt             perl.pl               testJpeg.html
+cgicsave.env          perl.pl~              testJpeg.html~
+cgitest.exe           rootPass.txt          [userData]
+cgitestJ.jpg          [sourceCode]          vcvars32.bat
+createAll.bat         temp_cmd.bat          
+              27 个文件      3,190,040 字节
+               5 个目录    201,019,392 可用字节

@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta http-equiv="mobile-agent" content="format=xhtml;" url="weibo.cn/spider4k?wm=5091_0010" /> 
+<meta http-equiv="mobile-agent" content="format=html5;" url="m.weibo.cn/1083599074?wm=5091_0010" /> 
+<title>南非蜘蛛的微博 新浪微博-随时随地分享身边的新鲜事儿</title>
+<meta name="application-name" content="新浪微博"/> 
+<meta name="msapplication-tooltip" content="新浪微博" />
+<meta name="msapplication-window" content="width=1024;height=768" />
+<meta name="msapplication-task" content="name=新浪微博;action-uri=http://weibo.com/;icon-uri=http://img.t.sinajs.cn/t4/style/images/common/favicon/home.ico" />
+<meta name="msapplication-task" content="name=我的微博;action-uri=http://weibo.com//profile;icon-uri=http://img.t.sinajs.cn/t4/style/images/common/favicon/mypage.ico" />
+<meta name="msapplication-task" content="name=微博广场;action-uri=http://plaza.weibo.com;icon-uri=http://img.t.sinajs.cn/t4/style/images/common/favicon/square.ico" />
+<meta content="#2994ce" name="msapplication-navbutton-color" />
+<script type="text/javascript">
+	(function(){var l=location;var r=new RegExp('^(?:([A-Za-z]{1,5}):(\\/{2,3}))?('+l.hostname.replace(/\./g,'\\.')+')?(?::(\\d+))?(?:\\/([^?#]*))?(?:\\?([^#]*))?(?:#(.*))?$');var s;((s=(l=l.toString()).indexOf('#!')) != -1 && r.test(l=l.substr(s+2))) ? location.replace(l) : 0;})();
+</script> 
+<script type="text/javascript">
+  try{document.execCommand("BackgroundImageCache", false, true);}catch(e){}
+</script>
+	  	  <link href="http://img.t.sinajs.cn/t4/style/css/module/base/frame.css?version=ea5e59fa6bdce077" type="text/css" rel="stylesheet" charset="utf-8" />
+	  <link href="http://img.t.sinajs.cn/t4/style/css/patch/index/index.css?version=ea5e59fa6bdce077" type="text/css" rel="stylesheet" charset="utf-8" />  
+	  	 	  	  	  	  	  	  
+		<style id="custom_style" type="text/css">@import 'http://img.t.sinajs.cn/t4/skin/public/base.css?version=ea5e59fa6bdce077';
+@import 'http://img.t.sinajs.cn/t4/skin/diy/diy001/skin.css?version=ea5e59fa6bdce077';
+body{
+  
+  
+  background-repeat: no-repeat;
+  background-attachment:scroll;
+  background-position:center top;
+}
+.W_main{padding:54px 0 0;}
+
+#js_skin_diy_skin{height:42px;}</style>
+		  <script type="text/javascript">
+var $CONFIG = {};
+$CONFIG['islogin'] = '0';
+$CONFIG['oid'] = '1083599074';
+$CONFIG['onick'] = '南非蜘蛛';
+$CONFIG['inviteCode'] = '1083599074';
+$CONFIG['entry'] = 'weiyonghu';
+$CONFIG['is_sina_mem'] = 0;
+$CONFIG['afterupgrade'] = 'false';
+$CONFIG['version'] = 'e12ac92f5c3da6cc';
+$CONFIG['bigpipe'] = 'true';
+$CONFIG['timeDiff'] = (new Date() - 1358696714000);
+$CONFIG['product'] = 'v4mblog';
+$CONFIG['pageid'] = 'content_unlogin_hisWeibo';
+$CONFIG['skin'] = 'diy';
+$CONFIG['background'] = ""; 
+$CONFIG['scheme'] = "diy001"; 
+$CONFIG['colors_type'] = "0";
+$CONFIG['lang'] = 'zh-cn';
+$CONFIG['jsPath'] = 'http://js.t.sinajs.cn/t4/';
+$CONFIG['cssPath'] = 'http://img.t.sinajs.cn/t4/';
+$CONFIG['imgPath'] = 'http://img.t.sinajs.cn/t4/';
+$CONFIG['servertime'] = 1358696714;
+$CONFIG['any'] = "&wvr=3.6";
+$CONFIG['$webim'] = 0;
+$CONFIG['location'] = ' ';
+$CONFIG['miyou'] = 0;
+$CONFIG['mJsPath'] = ['http://js{n}.t.sinajs.cn/t4/', 1, 2];
+$CONFIG['mCssPath'] = ['http://img{n}.t.sinajs.cn/t4/', 1, 2];
+$CONFIG['enterprise']='';
+</script>
+  <script src="http://js.t.sinajs.cn/STK/js/gaea_1_19.js" type="text/javascript" ></script>
+  </head>
+<body class="B_my_profile_other">
+<div class="W_miniblog">
+ <div class="W_miniblog_fb"> 
+<div id="weibo_top_public"></div>
+<script src="http://js.t.sinajs.cn/t4/home/js/public/topInit.js"></script>
+<script type="text/javascript">
+	WBtopGlobal && WBtopGlobal.init({
+	 name: "",
+	 uid: "",
+	 any: "&wvr=3.6",
+	 islogin: 0,
+	 icon: "",
+	 lang: "zh-cn",
+	 verified: "",
+	 verify: "",
+	 _wv: "3.6",
+	 entry: "weiyonghu",
+	 inviteCode:"1083599074"
+	});
+</script>
+<div class="W_main">
+	<div id="pl_content_unlogin_invitereg"><div class="nologin_profile">
+ <iframe id="register_iframe_v4" name="register_iframe_v4" frameborder="0" style="width:950px;height:132px;" scrolling="no" frameborder="0" src="http://weibo.com/signup/signup_iframe_v4.php?inviteCode=1083599074&entry=weiyonghu" allowtransparency="true"></iframe>
+</div></div>
+<div class="W_main_bg clearfix">
+<div class="W_main_l">
+<!--微博页左导-->
+  <div id="pl_leftNav_profilePersonal">
+  <div class="left_nav">
+ <a class="face" href="/spider4k?from=otherprofile&wvr=3.6&loc=guipor" title="南非蜘蛛"><img src="http://tp3.sinaimg.cn/1083599074/180/5645771294/1" width="150" height="150" alt="南非蜘蛛" /></a>
+ <div class="border">
+ <dl>
+ <dt >
+  <a href="/spider4k?from=otherprofile&wvr=3.6&loc=guibo" class="title"><img src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif" width="16" height="16" alt="" class="ico_myhomepage" />他的微博</a>
+ </dt>
+ <dt >
+  <a action-type="login" href="/1083599074/info?from=otherprofile&wvr=3.6&loc=guidetail" class="title"><img alt="" class="ico_persondata" src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif">个人资料</a>
+ </dt>
+  <dt >
+  <a action-type="login" href="/1083599074/follow?from=otherprofile&wvr=3.6&loc=guifollow" class="title"><img src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif" class="ico_myconcern" alt="">关注(1511)</a>
+ </dt>
+ <dt >
+  <a action-type="login" href="/1083599074/fans?from=otherprofile&wvr=3.6&loc=guifans" class="title"><img src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif" class="ico_myfans" alt="">粉丝(67304)</a>
+ </dt>
+ <dt >
+  <a action-type="login" href="http://q.weibo.com/profile/1083599074?from=otherprofile&wvr=3.6&loc=guiqun" class="title"><img src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif" class="ico_mygroup" alt="">微群<em id="pl_leftNav_count_group"></em></a>
+ </dt>
+ <dt >
+  <a action-type="login" href="http://photo.weibo.com/1083599074/albums?from=otherprofile&wvr=3.6&loc=guialbum" class="title">
+  <img src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif" class="ico_myphoto" alt="">相册<em id="pl_leftNav_count_album"></em>
+  </a>
+ </dt>
+ <dt >
+  <a action-type="login" href="/1083599074/game?from=otherprofile&wvr=3.6&loc=guigame" class="title"><img src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif" class="ico_myphoto ico_mygame" alt="">游戏<em id="pl_leftNav_count_game"></em></a>
+ </dt>
+ </dl>
+ </div>
+</div>  </div>
+  <div id="pl_leftNav_profileContent" ucardconf="type=1">
+  </div>
+<!--/微博页左导-->
+</div>
+<div id='plc_profile'><div class="W_main_c">
+ <div id="pl_content_hisPersonalInfo">&nbsp;</div>
+ <div id="pl_content_album"></div>
+ <div id='pl_content_unlogin_profilefeed'><div requesttype="search" class="W_loading"><span>正在加载，请稍候...</span>
+</div></div>
+</div>
+<div class="W_main_r">
+ <div id='pl_content_litePersonInfo'></div>
+ <div id='pl_relation_hisFollowingsNav'></div>
+</div></div>
+</div>
+</div>
+<div id='pl_content_unlogin_commonjs'></div>
+<div class="global_footer">
+	<div class="other_link clearfix">
+	<div class="help_link">
+		<p><a href="http://help.weibo.com/?refer=didao&bottomnav=1&wvr=3.6" class="ico_service" target="__blank">微博帮助</a>　<a href="http://weiba.weibo.com/wanzhuanweibo?bottomnav=1&wvr=3.6" target="__blank">意见反馈</a>　<a href="http://open.weibo.com?bottomnav=1&wvr=3.6" target="__blank">开放平台</a>　<a href="http://hr.weibo.com?bottomnav=1&wvr=3.6" target="__blank">微博招聘</a>　<a href="http://news.sina.com.cn/guide?bottomnav=1&wvr=3.6" target="__blank">新浪网导航</a>　<a href="http://service.account.weibo.com/?bottomnav=1&wvr=3.6" target="__blank">社区管理中心</a>　<a href="http://weibo.com/z/guize/gongyue.html?bottomnav=1&wvr=3.6" target="__blank">微博社区公约</a></p>
+		<p>北京微梦创科网络技术有限公司&emsp;<a href="http://weibo.com/aj/static/jww.html" target="_blank">京网文[2011]0398-130号</a>&emsp;<a href="http://www.miibeian.gov.cn" target="_blank">京ICP证100780号</a></p>
+	</div>
+	<div class="copy">
+		<p class="W_linkb">
+		<select id="pl_content_changeLanguage" suda-data="key=tblog_home_click&value=language_versions_click" class="htc_select"><option value="zh-cn" selected>中文(简体)</option><option value="zh-tw">中文(繁体)</option></select>
+		</p>
+		<p>Copyright &copy; 1996-2012 SINA</p>
+	</div>
+	</div>
+</div>
+<a href="javascript:;" id="base_scrollToTop" class="W_gotop">
+<span><em class="sj">&diams;</em><em class="fk">▐</em>返回顶部</span>
+</a> 
+</div>
+</div>
+</body>
+	<script src="http://js.t.sinajs.cn/t4/home/js/base.js?version=e12ac92f5c3da6cc" type="text/javascript" ></script>
+		
+		
+
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_album","js":[],"css":["\/style\/css\/module\/list\/user_profile_photolist.css?version=ea5e59fa6bdce077","\/style\/css\/module\/layer\/layer_profile_photos.css?version=ea5e59fa6bdce077"],"html":"<div class=\"weibo_album\">\n\t<div class=\"title\">\n  \t<div class=\"right\"><a href=\"http:\/\/photo.weibo.com\/1083599074\/albums?from=profiletop&wvr=3.6\">查看全部<\/a><\/div>\n  \t<strong>个人照片<\/strong>\n  <\/div>\n <ul node-type=\"listcon\" class=\"clearfix\">\n\t\t<li class=\"mouseover\"><a action-type=\"login\" href=\"http:\/\/photo.weibo.com\/1083599074\/talbum\/detail\/photo_id\/3536574836868792?from=profile&profilephoto=1&wvr=3.6\"><img src=\"http:\/\/ww2.sinaimg.cn\/square\/409668e2jw1e1034c9aodj.jpg\" alt=\"\"\/><\/a><\/li>\n\t\t<li class=\"mouseover\"><a action-type=\"login\" href=\"http:\/\/photo.weibo.com\/1083599074\/talbum\/detail\/photo_id\/3536265594884495?from=profile&profilephoto=2&wvr=3.6\"><img src=\"http:\/\/ww3.sinaimg.cn\/square\/409668e2jw1e0z3ls3d9jj.jpg\" alt=\"\"\/><\/a><\/li>\n\t\t<li class=\"mouseover\"><a action-type=\"login\" href=\"http:\/\/photo.weibo.com\/1083599074\/talbum\/detail\/photo_id\/3535883925500402?from=profile&profilephoto=3&wvr=3.6\"><img src=\"http:\/\/ww1.sinaimg.cn\/square\/409668e2jw1e0xvr8due6j.jpg\" alt=\"\"\/><\/a><\/li>\n\t\t<li class=\"mouseover\"><a action-type=\"login\" href=\"http:\/\/photo.weibo.com\/1083599074\/talbum\/detail\/photo_id\/3535853697387881?from=profile&profilephoto=4&wvr=3.6\"><img src=\"http:\/\/ww4.sinaimg.cn\/square\/409668e2jw1e0xs5sj1joj.jpg\" alt=\"\"\/><\/a><\/li>\n\t\t<li class=\"mouseover\"><a action-type=\"login\" href=\"http:\/\/photo.weibo.com\/1083599074\/talbum\/detail\/photo_id\/3535597324769584?from=profile&profilephoto=5&wvr=3.6\"><img src=\"http:\/\/ww4.sinaimg.cn\/square\/409668e2jw1e0wyurt7zij.jpg\" alt=\"\"\/><\/a><\/li>\n\t\t<li class=\"mouseover\"><a action-type=\"login\" href=\"http:\/\/photo.weibo.com\/1083599074\/talbum\/detail\/photo_id\/3535578055871105?from=profile&profilephoto=6&wvr=3.6\"><img src=\"http:\/\/ww1.sinaimg.cn\/square\/409668e2jw1e0wwn4joy2j.jpg\" alt=\"\"\/><\/a><\/li>\n\t <\/ul>\n<div class=\"more_photos\" node-type=\"morePhotos\" style=\"display:none;\"><a href=\"http:\/\/photo.weibo.com\/1083599074\/albums?from=profilebottom&wvr=3.6\">查看全部相册<\/a><\/div>\n<a onclick=\"return false;\" suda-data=\"key=tblog_myprofile_v3&value=unfold_photo\" class=\"slide W_moredown W_bgcolor_hover\" node-type=\"foldBtn\" action-type=\"foldBtn\" action-data=\"img=http:\/\/ww4.sinaimg.cn\/square\/409668e2jw1e0vngj1xlmj.jpg,http:\/\/ww2.sinaimg.cn\/square\/409668e2jw1e0lxe7rp7kj.jpg,http:\/\/ww2.sinaimg.cn\/square\/409668e2jw1e0lcx0i1blj.jpg,http:\/\/ww4.sinaimg.cn\/square\/409668e2jw1e0k9v4wuoqj.jpg,http:\/\/ww1.sinaimg.cn\/square\/409668e2jw1e0jx1474g5j.jpg,http:\/\/ww1.sinaimg.cn\/square\/409668e2jw1e0jkl6hkzuj.jpg,http:\/\/ww2.sinaimg.cn\/square\/409668e2jw1e0ix4yda91j.jpg,http:\/\/ww3.sinaimg.cn\/square\/409668e2jw1e0iwr15ptbj.jpg,http:\/\/ww3.sinaimg.cn\/square\/409668e2jw1e0hi3sgorfj.jpg,http:\/\/ww1.sinaimg.cn\/square\/409668e2jw1e0gli5ihrmj.jpg,http:\/\/ww2.sinaimg.cn\/square\/409668e2jw1e0fot21x4pj.jpg,http:\/\/ww2.sinaimg.cn\/square\/409668e2jw1e0d7evk0uoj.jpg&url=http%3A%2F%2Fphoto.weibo.com%2F1083599074%2Ftalbum%2Fdetail%2Fphoto_id%2F3535184642805056%3Ffrom%3Dprofile%26profilephoto%3D7,http%3A%2F%2Fphoto.weibo.com%2F1083599074%2Ftalbum%2Fdetail%2Fphoto_id%2F3532136587604597%3Ffrom%3Dprofile%26profilephoto%3D8,http%3A%2F%2Fphoto.weibo.com%2F1083599074%2Ftalbum%2Fdetail%2Fphoto_id%2F3531958283775504%3Ffrom%3Dprofile%26profilephoto%3D9,http%3A%2F%2Fphoto.weibo.com%2F1083599074%2Ftalbum%2Fdetail%2Fphoto_id%2F3531618251614865%3Ffrom%3Dprofile%26profilephoto%3D10,http%3A%2F%2Fphoto.weibo.com%2F1083599074%2Ftalbum%2Fdetail%2Fphoto_id%2F3531506507208653%3Ffrom%3Dprofile%26profilephoto%3D11,http%3A%2F%2Fphoto.weibo.com%2F1083599074%2Ftalbum%2Fdetail%2Fphoto_id%2F3531398163926015%3Ffrom%3Dprofile%26profilephoto%3D12,http%3A%2F%2Fphoto.weibo.com%2F1083599074%2Ftalbum%2Fdetail%2Fphoto_id%2F3531193976597655%3Ffrom%3Dprofile%26profilephoto%3D13,http%3A%2F%2Fphoto.weibo.com%2F1083599074%2Ftalbum%2Fdetail%2Fphoto_id%2F3531190608489026%3Ffrom%3Dprofile%26profilephoto%3D14,http%3A%2F%2Fphoto.weibo.com%2F1083599074%2Ftalbum%2Fdetail%2Fphoto_id%2F3530749753835899%3Ffrom%3Dprofile%26profilephoto%3D15,http%3A%2F%2Fphoto.weibo.com%2F1083599074%2Ftalbum%2Fdetail%2Fphoto_id%2F3530465786920746%3Ffrom%3Dprofile%26profilephoto%3D16,http%3A%2F%2Fphoto.weibo.com%2F1083599074%2Ftalbum%2Fdetail%2Fphoto_id%2F3530181072955725%3Ffrom%3Dprofile%26profilephoto%3D17,http%3A%2F%2Fphoto.weibo.com%2F1083599074%2Ftalbum%2Fdetail%2Fphoto_id%2F3529402706582125%3Ffrom%3Dprofile%26profilephoto%3D18\" href=\"javascript:void(0)\"><span class=\"more\"><\/span><\/a>\n<\/div>\n"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_unlogin_profilefeed","js":[],"css":["style\/css\/module\/list\/feed.css?version=ea5e59fa6bdce077","style\/css\/module\/global\/loading_line.css?version=ea5e59fa6bdce077","style\/css\/module\/list\/zero_follow.css?version=ea5e59fa6bdce077","style\/css\/module\/combination\/A_feed_function.css?version=ea5e59fa6bdce077","style\/css\/module\/layer\/layer_addfavor_tags.css?version=ea5e59fa6bdce077","style\/css\/module\/title\/index_title.css?version=ea5e59fa6bdce077"],"html":"<div class=\"index_title\">\n<h3>南非蜘蛛发表的微博<span class=\"W_textb CH\">(6780)<\/span><\/h3>\n<\/div>\n<div class=\"feed_lists\">\n  <dl action-type=\"feed_list_item\" mid=\"3536574836868792\" class=\"feed_list W_linecolor\">\n\t<dd class=\"content\">\n\t<p node-type=\"feed_list_content\">买了本书<\/p>\n\t\n<ul class=\"piclist\" node-type=\"feed_list_media_prev\">\n\t<li>\n\t\t<div class=\"chePicMin W_bgcolor_mini bigcursor\" action-type=\"feed_list_media_img\" action-data=\"uid=1083599074&amp;mid=3536574836868792\" suda-data=\"key=feed_image_click&value=image_zoomin\"><img style=\"cursor:default;\" class=\"bigcursor\" node-type=\"feed_list_media_bgimg\" src=\"http:\/\/ww2.sinaimg.cn\/thumbnail\/409668e2jw1e1034c9aodj.jpg\" alt=\"\"\/><img style=\"left: 39.5px; top: 52px; display: none;\" src=\"http:\/\/img.t.sinajs.cn\/t4\/style\/images\/common\/loading.gif\" class=\"loading_gif\"><\/div>\n\t<\/li>\n\t\t<\/ul>\n\t<dl class=\"comment W_textc W_linecolor W_bgcolor\" style=\"display: none;\" node-type=\"feed_list_media_disp\"><\/dl>\n\t\n\t  <div class=\"wTablist W_linkb W_textb\" node-type =\"feed_list_tagList\" style=\"display:none;\">标签：\n    <\/div>\n  \t<p class=\"info W_linkb W_textb\"><span>\t\t<a action-type=\"login\" href=\"javascript:void(0);\">转发(4)<\/a><i class=\"W_vline\">|<\/i>\n\t\t<a action-type=\"login\" href=\"javascript:void(0);\">收藏<\/a><i class=\"W_vline\">|<\/i>\n\t<a action-type=\"login\" action-data=\"location=\" href=\"javascript:void(0);\">评论(24)<\/a><\/span><a title=\"2013-01-20 15:56\" node-type=\"feed_list_item_date\" date=\"1358668610000\" href=\"\/1083599074\/zfltFsOSY\" class=\"date\">今天 15:56<\/a> 来自<a target=\"_blank\" href=\"http:\/\/app.weibo.com\/t\/feed\/9ksdit\" rel=\"nofollow\">iPhone客户端<\/a>\n\t\n\t<!--user profile feed: reportspam.report_mblog -->\n\t\t \n\t&nbsp;<em class=\"W_vline\">|<\/em>&nbsp; <a class=\"W_linkb\" href=\"javascript:void(0);\" onclick=\"javascript:window.open('http:\/\/service.account.weibo.com\/reportspam?rid=3536574836868792&type=1&url=http%3A%2F%2Fweibo.com%2Fspider4k&bottomnav=1&wvr=3.6', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');\">举报<\/a>\n\t\n\t<\/p>\n\t<div node-type=\"feed_list_repeat\" class=\"repeat W_textc W_linecolor W_bgcolor\" style=\"display:none;\"><\/div>\n\t<\/dd>\n\t<dd class=\"clear\"><\/dd>\t\t\n<\/dl><dl action-type=\"feed_list_item\" mid=\"3536568587160020\" isForward=\"1\" class=\"feed_list W_linecolor\">\n\t<dd class=\"content\">\n\t<p node-type=\"feed_list_content\">转发微博<\/p>\n\t\n\t\t\t<dl class=\"comment W_textc W_linecolor W_bgcolor\">\n\t\t<dd class=\"arrow W_bgcolor_arrow\"><em class=\"W_arrline\">◆<\/em><span>◆<\/span><\/dd>\n\t<dt node-type=\"feed_list_forwardContent\">\n\t\t<em>抱歉，此微博已被作者删除。查看帮助：<a title=\"\" href=\"http:\/\/t.cn\/zWSudZc\" target=\"_blank\" mt=\"url\" action-type=\"feed_list_url\">http:\/\/t.cn\/zWSudZc<\/a><\/em>\n\t\t<\/dt>\n\t\t    <\/dl>\n\t  <div class=\"wTablist W_linkb W_textb\" node-type =\"feed_list_tagList\" style=\"display:none;\">标签：\n    <\/div>\n  \t<p class=\"info W_linkb W_textb\"><span>\t\t<a action-type=\"login\" href=\"javascript:void(0);\">转发(12)<\/a><i class=\"W_vline\">|<\/i>\n\t\t<a action-type=\"login\" href=\"javascript:void(0);\">收藏<\/a><i class=\"W_vline\">|<\/i>\n\t<a action-type=\"login\" action-data=\"location=\" href=\"javascript:void(0);\">评论(4)<\/a><\/span><a title=\"2013-01-20 15:32\" node-type=\"feed_list_item_date\" date=\"1358667120000\" href=\"\/1083599074\/zfljAu2Ec\" class=\"date\">今天 15:32<\/a> 来自<a target=\"_blank\" href=\"http:\/\/app.weibo.com\/t\/feed\/9ksdit\" rel=\"nofollow\">iPhone客户端<\/a>\n\t\n\t<!--user profile feed: reportspam.report_mblog -->\n\t\t \n\t&nbsp;<em class=\"W_vline\">|<\/em>&nbsp; <a class=\"W_linkb\" href=\"javascript:void(0);\" onclick=\"javascript:window.open('http:\/\/service.account.weibo.com\/reportspam?rid=3536568587160020&type=1&url=http%3A%2F%2Fweibo.com%2Fspider4k&bottomnav=1&wvr=3.6', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');\">举报<\/a>\n\t\n\t<\/p>\n\t<div node-type=\"feed_list_repeat\" class=\"repeat W_textc W_linecolor W_bgcolor\" style=\"display:none;\"><\/div>\n\t<\/dd>\n\t<dd class=\"clear\"><\/dd>\t\t\n<\/dl><dl action-type=\"feed_list_item\" mid=\"3536523473010980\" isForward=\"1\" class=\"feed_list W_linecolor\">\n\t<dd class=\"content\">\n\t<p node-type=\"feed_list_content\">有抗寂寞那个啥不？<\/p>\n\t\n\t\t\t<dl class=\"comment W_textc W_linecolor W_bgcolor\">\n\t\t<dd class=\"arrow W_bgcolor_arrow\"><em class=\"W_arrline\">◆<\/em><span>◆<\/span><\/dd>\n\t<dt node-type=\"feed_list_forwardContent\">\n\t\t<a href=\"\/kuqin\" title=\"IT程序猿\" usercard=\"id=1630461754\" nick-name=\"IT程序猿\">\n\t\t  @IT程序猿<\/a>\n\t\t<a target=\"_blank\" href=\"http:\/\/club.weibo.com\/intro\"><img src=\"http:\/\/img.t.sinajs.cn\/t4\/style\/images\/common\/transparent.gif\" title= \"微博达人\" alt=\"微博达人\" class=\"ico_club\" node-type=\"daren\"\/><\/a>：\n\t\t<em>【抗寂寞拉面碗：和手机共进晚餐】许多朋友选择了用手机打发时间，不过一边吃面一边玩着手机还是有些不便。这是专门为他们打造了一款特别的碗——“抗寂寞拉面碗”，包含一个手机插槽。用户可以很方便地把手机插在面碗上，解放了双手，吃面也不再寂寞了。（来自 威锋网 ）<\/em>\n\t\t<\/dt>\n\t\t<dd node-type='feed_list_media_prev'>\n\t\t<ul class=\"piclist\">\n\t \t<li>\n\t\t<div class=\"chePicMin W_bgcolor_mini bigcursor\" action-type=\"feed_list_media_img\" action-data=\"uid=1630461754&amp;mid=3536523037043788\" suda-data=\"key=feed_image_click&value=image_zoomin\"><img style=\"cursor:default;\" class=\"bigcursor\" node-type=\"feed_list_media_bgimg\" src=\"http:\/\/ww2.sinaimg.cn\/thumbnail\/612edf3ajw1e0zx60lnkkj.jpg\" alt=\"\"\/><img style=\"left: 39.5px; top: 52px; display: none;\" src=\"http:\/\/img.t.sinajs.cn\/t4\/style\/images\/common\/loading.gif\" class=\"loading_gif\"><\/div>\n\t<\/li>\n\t \t  <\/ul>\n\t\t<\/dd>\n\t\t\t<dd class=\"expand\" style=\"display: none;\" node-type=\"feed_list_media_disp\"><\/dd>\n\t\t<dd class=\"info W_linkb W_textb\">\n\t<span>\n\t<a href=\"\/1630461754\/zfk87typu?type=repost\" >转发(250)<\/a>\n\t<i class=\"W_vline\">|<\/i>\n\t\t<a href=\"\/1630461754\/zfk87typu\" >评论(59)<\/a>\n\t<\/span>\n\t<a class=\"date\" href=\"\/1630461754\/zfk87typu\" title=\"2013-01-20 12:31\" date=\"1358656260000\" node-type=\"feed_list_item_date\" >今天 12:31<\/a> 来自<a target=\"_blank\" href=\"http:\/\/app.weibo.com\/t\/feed\/69yt1V\" rel=\"nofollow\">新浪微博<\/a>\n<\/dd>\t\t    <\/dl>\n\t  <div class=\"wTablist W_linkb W_textb\" node-type =\"feed_list_tagList\" style=\"display:none;\">标签：\n    <\/div>\n  \t<p class=\"info W_linkb W_textb\"><span>\t\t<a action-type=\"login\" href=\"javascript:void(0);\">转发(13)<\/a><i class=\"W_vline\">|<\/i>\n\t\t<a action-type=\"login\" href=\"javascript:void(0);\">收藏<\/a><i class=\"W_vline\">|<\/i>\n\t<a action-type=\"login\" action-data=\"location=\" href=\"javascript:void(0);\">评论(6)<\/a><\/span><a title=\"2013-01-20 12:32\" node-type=\"feed_list_item_date\" date=\"1358656364000\" href=\"\/1083599074\/zfk8PcDic\" class=\"date\">今天 12:32<\/a> 来自<a target=\"_blank\" href=\"http:\/\/app.weibo.com\/t\/feed\/9ksdit\" rel=\"nofollow\">iPhone客户端<\/a>\n\t\n\t<!--user profile feed: reportspam.report_mblog -->\n\t\t \n\t&nbsp;<em class=\"W_vline\">|<\/em>&nbsp; <a class=\"W_linkb\" href=\"javascript:void(0);\" onclick=\"javascript:window.open('http:\/\/service.account.weibo.com\/reportspam?rid=3536523473010980&type=1&url=http%3A%2F%2Fweibo.com%2Fspider4k&bottomnav=1&wvr=3.6', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');\">举报<\/a>\n\t\n\t<\/p>\n\t<div node-type=\"feed_list_repeat\" class=\"repeat W_textc W_linecolor W_bgcolor\" style=\"display:none;\"><\/div>\n\t<\/dd>\n\t<dd class=\"clear\"><\/dd>\t\t\n<\/dl><dl action-type=\"feed_list_item\" mid=\"3536321102039952\" class=\"feed_list W_linecolor\">\n\t<dd class=\"content\">\n\t<p node-type=\"feed_list_content\">在老家拉面馆常遇到的场景是顾客对着师傅喊：拉好了没？师傅回答：正拉着那<\/p>\n\t\t\n\t  <div class=\"wTablist W_linkb W_textb\" node-type =\"feed_list_tagList\" style=\"display:none;\">标签：\n    <\/div>\n  \t<p class=\"info W_linkb W_textb\"><span>\t\t<a action-type=\"login\" href=\"javascript:void(0);\">转发(6)<\/a><i class=\"W_vline\">|<\/i>\n\t\t<a action-type=\"login\" href=\"javascript:void(0);\">收藏<\/a><i class=\"W_vline\">|<\/i>\n\t<a action-type=\"login\" action-data=\"location=\" href=\"javascript:void(0);\">评论(9)<\/a><\/span><a title=\"2013-01-19 23:08\" node-type=\"feed_list_item_date\" date=\"1358608114000\" href=\"\/1083599074\/zfeSq8yGs\" class=\"date\">1月19日 23:08<\/a> 来自<a target=\"_blank\" href=\"http:\/\/app.weibo.com\/t\/feed\/9ksdit\" rel=\"nofollow\">iPhone客户端<\/a>\n\t\n\t<!--user profile feed: reportspam.report_mblog -->\n\t\t \n\t&nbsp;<em class=\"W_vline\">|<\/em>&nbsp; <a class=\"W_linkb\" href=\"javascript:void(0);\" onclick=\"javascript:window.open('http:\/\/service.account.weibo.com\/reportspam?rid=3536321102039952&type=1&url=http%3A%2F%2Fweibo.com%2Fspider4k&bottomnav=1&wvr=3.6', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');\">举报<\/a>\n\t\n\t<\/p>\n\t<div node-type=\"feed_list_repeat\" class=\"repeat W_textc W_linecolor W_bgcolor\" style=\"display:none;\"><\/div>\n\t<\/dd>\n\t<dd class=\"clear\"><\/dd>\t\t\n<\/dl><dl action-type=\"feed_list_item\" mid=\"3536317445018590\" isForward=\"1\" class=\"feed_list W_linecolor\">\n\t<dd class=\"content\">\n\t<p node-type=\"feed_list_content\">金山访问量多少？怎么提供技术支持<\/p>\n\t\n\t\t\t<dl class=\"comment W_textc W_linecolor W_bgcolor\">\n\t\t<dd class=\"arrow W_bgcolor_arrow\"><em class=\"W_arrline\">◆<\/em><span>◆<\/span><\/dd>\n\t<dt node-type=\"feed_list_forwardContent\">\n\t\t<a href=\"\/video\" title=\"新浪视频\" usercard=\"id=1640601392\" nick-name=\"新浪视频\">\n\t\t  @新浪视频<\/a>\n\t\t<a target=\"_blank\" href=\"http:\/\/verified.weibo.com\/verify\"><img src=\"http:\/\/img.t.sinajs.cn\/t4\/style\/images\/common\/transparent.gif\" title= \"新浪机构认证\" alt=\"新浪机构认证\" class=\"approve_co\"\/><\/a>：\n\t\t<em>【12360抢票插件是否制造新的购票不公引争议】昨天，工信部下达通知要求360、搜狗、金山猎豹等浏览器停用抢票插件。金山公司称目前并没有收到相关部委正式通知，软件仍可正常使用。并表示，如果12306有需要的话，愿意向其提供技术资源支持，帮助广大网民顺利买到票回家。<a title=\"http:\/\/t.cn\/zjFCKSO\" href=\"http:\/\/t.cn\/zjFCKSO\" target=\"_blank\" action-data=\"title=%E8%A7%86%E9%A2%91%3A%E9%87%91%E5%B1%B1%E5%90%9112306%E5%96%8A%E8%AF%9D%E6%84%BF%E5%90%91%E9%93%81%E9%81%93%E9%83%A8%E6%8F%90%E4%BE%9B%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81&amp;short_url=http:\/\/t.cn\/zjFCKSO&amp;full_url=http%3A%2F%2Fvideo.sina.com.cn%2Fp%2Fnews%2Fc%2Fv%2F2013-01-19%2F214061980779.html&amp;metadata\" action-type=\"feed_list_media_video\" >http:\/\/t.cn\/zjFCKSO<span class=\"W_ico16 icon_sw_movie\" title=\"视频\"><\/span><\/a><\/em>\n\t\t<\/dt>\n\t\t<dd node-type='feed_list_media_prev'>\n\t\t<ul class=\"piclist\">\n\t \t<li>\n\t\t<div class=\"chePicMin W_bgcolor_mini bigcursor\" action-type=\"feed_list_media_img\" action-data=\"uid=1640601392&amp;mid=3536316945836070\" suda-data=\"key=feed_image_click&value=image_zoomin\"><img style=\"cursor:default;\" class=\"bigcursor\" node-type=\"feed_list_media_bgimg\" src=\"http:\/\/ww4.sinaimg.cn\/thumbnail\/61c99730jw1e0z9hzox4rj.jpg\" alt=\"\"\/><img style=\"left: 39.5px; top: 52px; display: none;\" src=\"http:\/\/img.t.sinajs.cn\/t4\/style\/images\/common\/loading.gif\" class=\"loading_gif\"><\/div>\n\t<\/li>\n\t \t  <\/ul>\n\t\t<\/dd>\n\t\t\t<dd class=\"expand\" style=\"display: none;\" node-type=\"feed_list_media_disp\"><\/dd>\n\t\t<dd class=\"info W_linkb W_textb\">\n\t<span>\n\t<a href=\"\/1640601392\/zfeLIouea?type=repost\" >转发(582)<\/a>\n\t<i class=\"W_vline\">|<\/i>\n\t\t<a href=\"\/1640601392\/zfeLIouea\" >评论(216)<\/a>\n\t<\/span>\n\t<a class=\"date\" href=\"\/1640601392\/zfeLIouea\" title=\"2013-01-19 22:52\" date=\"1358607125000\" node-type=\"feed_list_item_date\" >1月19日 22:52<\/a> 来自<a target=\"_blank\" href=\"http:\/\/weibo.com\/\" rel=\"nofollow\">新浪微博<\/a>\n<\/dd>\t\t    <\/dl>\n\t  <div class=\"wTablist W_linkb W_textb\" node-type =\"feed_list_tagList\" style=\"display:none;\">标签：\n    <\/div>\n  \t<p class=\"info W_linkb W_textb\"><span>\t\t<a action-type=\"login\" href=\"javascript:void(0);\">转发(12)<\/a><i class=\"W_vline\">|<\/i>\n\t\t<a action-type=\"login\" href=\"javascript:void(0);\">收藏<\/a><i class=\"W_vline\">|<\/i>\n\t<a action-type=\"login\" action-data=\"location=\" href=\"javascript:void(0);\">评论(5)<\/a><\/span><a title=\"2013-01-19 22:53\" node-type=\"feed_list_item_date\" date=\"1358607239000\" href=\"\/1083599074\/zfeMwl3z0\" class=\"date\">1月19日 22:53<\/a> 来自<a target=\"_blank\" href=\"http:\/\/app.weibo.com\/t\/feed\/9ksdit\" rel=\"nofollow\">iPhone客户端<\/a>\n\t\n\t<!--user profile feed: reportspam.report_mblog -->\n\t\t \n\t&nbsp;<em class=\"W_vline\">|<\/em>&nbsp; <a class=\"W_linkb\" href=\"javascript:void(0);\" onclick=\"javascript:window.open('http:\/\/service.account.weibo.com\/reportspam?rid=3536317445018590&type=1&url=http%3A%2F%2Fweibo.com%2Fspider4k&bottomnav=1&wvr=3.6', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=yes, resizable=yes, location=no, status=no');\">举报<\/a>\n\t\n\t<\/p>\n\t<div node-type=\"feed_list_repeat\" class=\"repeat W_textc W_linecolor W_bgcolor\" style=\"display:none;\"><\/div>\n\t<\/dd>\n\t<dd class=\"clear\"><\/dd>\t\t\n<\/dl>  <\/div>\n<div class=\"unlogin_vip_info\">\n<span class=\"icon_warn\"><\/span>\n<a target=\"_blank\" href=\"http:\/\/weibo.com\/signup\/signup.php?inviteCode=1083599074&from=weiyonghu\" >快速开通微博<\/a>你可以查看更多内容，还可以评论、转发微博。\n<\/div>"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_litePersonInfo","js":[],"css":["style\/css\/module\/global\/person_info.css?version=ea5e59fa6bdce077","style\/css\/module\/global\/person_count.css?version=ea5e59fa6bdce077","style\/css\/module\/global\/sina_vip.css?version=ea5e59fa6bdce077"],"html":"  <!--新浪认证-->\n  <div class=\"W_sina_vip\">\n  <dl>\n\t  <dt><span title=\"中国最大开源社区Chinaunix创始人之一窦喆\"><\/span><\/dt>\n    <dd class=\"W_textb\">\n\t\t<p>中国最大开源社区Chinaunix创始人之一窦喆<\/p>\n  <\/dd>\n\t<dd class=\"settings\">\n\t\t<span class=\"hover\">\n\t\t  \t\t \t<a href=\"javascript:void(0);\" action-type=\"login\">举报身份<\/a><\/span>&nbsp;&nbsp;<a action-type=\"login\" href=\"http:\/\/verified.weibo.com\/verify\" target=\"_blank\">申请认证»<\/a>\n\t<\/dd>\n    <\/dl>\n  <\/div>\n  <!--\/新浪认证-->\n<!--个人信息统计-->\n<div class=\"W_rightModule\">\n<ul class=\"user_atten clearfix \">\n  <li><a action-type=\"login\" href=\"\/1083599074\/follow?from=otherprofile&wvr=3.6&loc=tagfollow\"><strong node-type=\"follow\">1511<\/strong><span>关注<\/span><\/a><\/li>\n  <li> <a action-type=\"login\" href=\"\/1083599074\/fans?from=otherprofile&wvr=3.6&loc=tagfans\"><strong node-type=\"fans\">67304<\/strong><span>粉丝<\/span><\/a><\/li>\n  \n  <li class=\"W_no_border\"><a href=\"\/spider4k?from=otherprofile&wvr=3.6&loc=tagweibo\"><strong node-type=\"weibo\">6780<\/strong><span>微博<\/span><\/a><\/li>\n<\/ul>\n<\/div>\n<!--\/个人信息统计-->"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_relation_hisFollowingsNav","js":[],"css":["style\/css\/module\/global\/right_module.css?version=ea5e59fa6bdce077","style\/css\/module\/list\/face_name_list.css?version=ea5e59fa6bdce077"],"html":"<!--我的关注-->\n<div class=\"W_rightModule\">\n<div class=\"title\"><a action-type=\"login\" href=\"\/1083599074\/follow?from=otherprofile&wvr=3.6&loc=followshow\">他的关注<\/a><span\n\tclass=\"ft12 CH W_textb\">(1511)<\/span><\/div>\n<ul class=\"face_name clearfix\">\n\t<li><a action-type=\"login\" class=\"per\" title=\"留几手\"><img src=\"http:\/\/tp4.sinaimg.cn\/1761179351\/50\/22821626784\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" alt=\"留几手\" usercard=\"id=1761179351\"\/><span class=\"name\" usercard=\"id=1761179351\">留几手<\/span><\/a><\/li>\n\t<li><a action-type=\"login\" class=\"per\" title=\"張惠妹\"><img src=\"http:\/\/tp2.sinaimg.cn\/1777924625\/50\/1286643175\/0\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" alt=\"張惠妹\" usercard=\"id=1777924625\"\/><span class=\"name\" usercard=\"id=1777924625\">張惠妹<\/span><\/a><\/li>\n\t<li><a action-type=\"login\" class=\"per\" title=\"fall_ark\"><img src=\"http:\/\/tp3.sinaimg.cn\/1678843974\/50\/5612526292\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" alt=\"fall_ark\" usercard=\"id=1678843974\"\/><span class=\"name\" usercard=\"id=1678843974\">fall_ark<\/span><\/a><\/li>\n\t<li><a action-type=\"login\" class=\"per\" title=\"LeahleahD\"><img src=\"http:\/\/tp4.sinaimg.cn\/1826643727\/50\/5652601807\/0\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" alt=\"LeahleahD\" usercard=\"id=1826643727\"\/><span class=\"name\" usercard=\"id=1826643727\">LeahleahD<\/span><\/a><\/li>\n\t<li><a action-type=\"login\" class=\"per\" title=\"琢磨先生\"><img src=\"http:\/\/tp4.sinaimg.cn\/1665372775\/50\/40011815537\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" alt=\"琢磨先生\" usercard=\"id=1665372775\"\/><span class=\"name\" usercard=\"id=1665372775\">琢磨先生<\/span><\/a><\/li>\n\t<li><a action-type=\"login\" class=\"per\" title=\"任贤齐\"><img src=\"http:\/\/tp2.sinaimg.cn\/1288803057\/50\/5648303993\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" alt=\"任贤齐\" usercard=\"id=1288803057\"\/><span class=\"name\" usercard=\"id=1288803057\">任贤齐<\/span><\/a><\/li>\n\t<li><a action-type=\"login\" class=\"per\" title=\"199IT-互联网数据中心\"><img src=\"http:\/\/tp4.sinaimg.cn\/1787567623\/50\/5641897301\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" alt=\"199IT-互联网数据中心\" usercard=\"id=1787567623\"\/><span class=\"name\" usercard=\"id=1787567623\">199IT-互联网数据中心<\/span><\/a><\/li>\n\t<li><a action-type=\"login\" class=\"per\" title=\"古城钟楼\"><img src=\"http:\/\/tp3.sinaimg.cn\/2493180882\/50\/5614514527\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" alt=\"古城钟楼\" usercard=\"id=2493180882\"\/><span class=\"name\" usercard=\"id=2493180882\">古城钟楼<\/span><\/a><\/li>\n\t<li><a action-type=\"login\" class=\"per\" title=\"网易新闻客户端\"><img src=\"http:\/\/tp3.sinaimg.cn\/1974808274\/50\/5649468634\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" alt=\"网易新闻客户端\" usercard=\"id=1974808274\"\/><span class=\"name\" usercard=\"id=1974808274\">网易新闻客户端<\/span><\/a><\/li>\n\t<\/ul>\n<div class=\"more\"><a action-type=\"login\"href=\"\/1083599074\/follow?from=otherprofile&wvr=3.6&loc=followshowmore\">更多»<\/a><\/div>\n<\/div>\n<!--\/我的关注-->"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_unlogin_commonjs","js":["home\/js\/pl\/content\/unloginHisWeibo.js?version=e12ac92f5c3da6cc"],"css":[],"html":""})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_leftNav_count_publicgroup","js":[],"css":[],"html":"(0)"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_leftNav_count_group","js":[],"css":[],"html":"(16)"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_leftNav_count_album","js":[],"css":[],"html":"(3)"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_leftNav_count_game","js":[],"css":[],"html":"(2)"})</script>
+</html>

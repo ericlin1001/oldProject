@@ -1,0 +1,379 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<meta name="application-name" content="新浪微博"/> 
+<meta name="msapplication-tooltip" content="新浪微博" />
+<meta name="msapplication-window" content="width=1024;height=768" />
+<meta name="msapplication-task" content="name=新浪微博;action-uri=http://weibo.com/;icon-uri=http://img.t.sinajs.cn/t5/style/images/common/favicon/home.ico" />
+<meta name="msapplication-task" content="name=我的微博;action-uri=http://weibo.com//profile;icon-uri=http://img.t.sinajs.cn/t5/style/images/common/favicon/mypage.ico" />
+<meta name="msapplication-task" content="name=微博广场;action-uri=http://plaza.weibo.com;icon-uri=http://img.t.sinajs.cn/t5/style/images/common/favicon/square.ico" />
+<meta content="#2994ce" name="msapplication-navbutton-color" />
+<title> 新浪微博-随时随地分享身边的新鲜事儿</title>
+<link href="http://img.t.sinajs.cn/t5/style/css/pages/register/v35login.css?version=ea5e59fa6bdce077" type="text/css" rel="stylesheet" />
+<script type="text/javascript">
+var $CONFIG = {};
+$CONFIG['islogin'] = '0';
+$CONFIG['oid'] = '';
+$CONFIG['onick'] = '';
+$CONFIG['inviteCode'] = '';
+$CONFIG['entry'] = 'weiyonghu';
+$CONFIG['version'] = 'e12ac92f5c3da6cc';
+$CONFIG['bigpipe'] = 'true';
+$CONFIG['timeDiff'] = (new Date() - 1358696713000);
+$CONFIG['product'] = 'v4mblog';
+$CONFIG['pageid'] = 'index';
+$CONFIG['skin'] = 'default';
+$CONFIG['background'] = ""; 
+$CONFIG['scheme'] = ""; 
+$CONFIG['colors_type'] = "0";
+$CONFIG['lang'] = 'zh-cn';
+$CONFIG['jsPath'] = 'http://js.t.sinajs.cn/t4/';
+$CONFIG['cssPath'] = 'http://img.t.sinajs.cn/t4/';
+$CONFIG['imgPath'] = 'http://img.t.sinajs.cn/t4/';
+$CONFIG['servertime'] = 1358696713;
+$CONFIG['any'] = "&wvr=3.6";
+$CONFIG['$webim'] = 0;
+$CONFIG['location'] = 'commbox';
+$CONFIG['miyou'] = 0;
+$CONFIG['brand'] = 0;
+$CONFIG['recfeed'] = 0;
+$CONFIG['shorturl_offline'] = '';
+    $CONFIG['mJsPath'] = ['http://js{n}.t.sinajs.cn/t4/', 1, 2];
+    $CONFIG['mCssPath'] = ['http://img{n}.t.sinajs.cn/t4/', 1, 2];
+$CONFIG['group'] = "";
+$CONFIG['request_ua'] = 'Incutio HttpClient v0.9';
+$CONFIG['enterprise']='';
+</script>
+<script src="http://js.t.sinajs.cn/STK/js/gaea_1_19.js" type="text/javascript" ></script>
+</head>
+<body>
+<div class="MB_wrap">
+  <div class="login_top">
+  	<a href="" class="llink"></a>
+    <div class="logoLink"></div>
+  </div>
+  <div class="login_body" id="pl_login_index">
+		<div class="login_l">      
+	<div class="tit" ad-data="id=ads_homelogin&url=http://biz.weibo.com/adfront/deliver&psid=PDPS000000025446"></div>
+      <div class="talking"> <strong class="">正在热议：</strong>
+        <div class="coverl"></div>
+        <div class="coverr"></div>
+        <div class="acticle" style="position:relative;">
+          <ul class="acticle_list" node-type="slide" style="position:relative;">
+                      <li><a href="http://huati.weibo.com/27200" target="_blank">抢票难引网友神吐槽</a></li>
+                      <li><a href="http://huati.weibo.com/27203" target="_blank">电阻手链成追女利器</a></li>
+                      <li><a href="http://huati.weibo.com/27204" target="_blank">艺术家于是之去世</a></li>
+                      <li><a href="http://huati.weibo.com/27202" target="_blank">期末考试神题走红</a></li>
+                      <li><a href="http://huati.weibo.com/27201" target="_blank">史上最严谨窃贼火了</a></li>
+                      <li><a href="http://huati.weibo.com/27126" target="_blank">一米七汉子遭神吐槽</a></li>
+                      <li><a href="http://huati.weibo.com/27158" target="_blank">赵本山退出春晚</a></li>
+                      <li><a href="http://huati.weibo.com/27182" target="_blank">甘孜白玉5.4级地震</a></li>
+                      <li><a href="http://huati.weibo.com/27053" target="_blank">计划生育争议再起</a></li>
+                      <li><a href="http://huati.weibo.com/27149" target="_blank">温太医遭小S袭胸</a></li>
+                      <li><a href="http://huati.weibo.com/27187" target="_blank">腊八节晒美粥图</a></li>
+                      <li><a href="http://huati.weibo.com/27104" target="_blank">春运神器走红</a></li>
+                      <li><a href="http://huati.weibo.com/27148" target="_blank">李小璐复出身材被赞</a></li>
+                      <li><a href="http://huati.weibo.com/27105" target="_blank">暮光情侣又分手了</a></li>
+                      <li><a href="http://huati.weibo.com/27124" target="_blank">张作霖照片闹乌龙</a></li>
+                      <li><a href="http://huati.weibo.com/27122" target="_blank">贪睡母女猫走红</a></li>
+                      <li><a href="http://huati.weibo.com/27197" target="_blank">随手拍雪景</a></li>
+                      <li><a href="http://huati.weibo.com/27184" target="_blank">热议《我是歌手》</a></li>
+                      <li><a href="http://huati.weibo.com/27151" target="_blank">景点鳄鱼冬眠被砸石</a></li>
+                      <li><a href="http://huati.weibo.com/27192" target="_blank">王祖蓝吉祥三宝逆天</a></li>
+                      <li><a href="http://huati.weibo.com/27152" target="_blank">北大前校草帅照热传</a></li>
+                      <li><a href="http://huati.weibo.com/27205" target="_blank">李娜挺进澳网八强</a></li>
+                      <li><a href="http://huati.weibo.com/27147" target="_blank">围观荷包蛋甜咸之争</a></li>
+                      <li><a href="http://huati.weibo.com/27156" target="_blank">编译局长衣俊卿被免</a></li>
+                      <li><a href="http://huati.weibo.com/27141" target="_blank">NBA全明星首发出炉</a></li>
+                      <li><a href="http://huati.weibo.com/27183" target="_blank">处女座被围攻</a></li>
+                      <li><a href="http://huati.weibo.com/27200" target="_blank">抢票难引网友神吐槽</a></li>
+                      <li><a href="http://huati.weibo.com/27203" target="_blank">电阻手链成追女利器</a></li>
+                      <li><a href="http://huati.weibo.com/27204" target="_blank">艺术家于是之去世</a></li>
+                      <li><a href="http://huati.weibo.com/27202" target="_blank">期末考试神题走红</a></li>
+                      <li><a href="http://huati.weibo.com/27201" target="_blank">史上最严谨窃贼火了</a></li>
+                      <li><a href="http://huati.weibo.com/27126" target="_blank">一米七汉子遭神吐槽</a></li>
+                    </ul>
+        </div>
+      </div>      
+      <div class="talking_list">
+      	<div class="tList_mdu1">
+        <dl class="manlist">
+          <dt>这些人正在用微博</dt>
+          <dd>
+            <ul class="userlist">
+                          <li><a href="http://weibo.com/102704000" target="_blank"><img src="http://tp1.sinaimg.cn/1035967280/50/5614261565/1" title="崔恕"/></a>
+              <a href="http://weibo.com/102704000" target="_blank">崔恕</a></li>
+                          <li><a href="http://weibo.com/maoshaocong" target="_blank"><img src="http://tp2.sinaimg.cn/1867565545/50/5632367060/1" title="莫少聪"/></a>
+              <a href="http://weibo.com/maoshaocong" target="_blank">莫少聪</a></li>
+                          <li><a href="http://weibo.com/u/1866179020" target="_blank"><img src="http://tp1.sinaimg.cn/1866179020/50/5626591834/1" title="黃秋生"/></a>
+              <a href="http://weibo.com/u/1866179020" target="_blank">黃秋生</a></li>
+                          <li><a href="http://weibo.com/u/1574525494" target="_blank"><img src="http://tp3.sinaimg.cn/1574525494/50/5649774101/1" title="小萌宠物"/></a>
+              <a href="http://weibo.com/u/1574525494" target="_blank">小萌宠物</a></li>
+                          <li><a href="http://weibo.com/panghocheung" target="_blank"><img src="http://tp2.sinaimg.cn/1682804733/50/5623902238/1" title="彭浩翔"/></a>
+              <a href="http://weibo.com/panghocheung" target="_blank">彭浩翔</a></li>
+                          <li><a href="http://weibo.com/hezhengjun" target="_blank"><img src="http://tp2.sinaimg.cn/1233332101/50/40005082737/1" title="何政军"/></a>
+              <a href="http://weibo.com/hezhengjun" target="_blank">何政军</a></li>
+                          <li><a href="http://weibo.com/u/2136002182" target="_blank"><img src="http://tp3.sinaimg.cn/2136002182/50/5650127581/1" title="杜德偉"/></a>
+              <a href="http://weibo.com/u/2136002182" target="_blank">杜德偉</a></li>
+                          <li><a href="http://weibo.com/u/1826513532" target="_blank"><img src="http://tp1.sinaimg.cn/1826513532/50/5648907600/1" title="炎亞綸"/></a>
+              <a href="http://weibo.com/u/1826513532" target="_blank">炎亞綸</a></li>
+                          <li><a href="http://weibo.com/xietianxiao" target="_blank"><img src="http://tp3.sinaimg.cn/1871599514/50/1289191125/1" title="谢天笑"/></a>
+              <a href="http://weibo.com/xietianxiao" target="_blank">谢天笑</a></li>
+                        </ul>
+          </dd>
+        </dl>
+        <dl class="manlist">
+          <dt>有趣的人</dt>
+          <dd>
+            <ul class="userlist">
+                          <li><a href="http://weibo.com/coco1214" target="_blank"><img src="http://tp3.sinaimg.cn/1716959170/50/22830469830/0" title="coco佳佳是个肉妹子"/></a><a href="http://weibo.com/coco1214" target="_blank">coco佳佳是个肉妹子</a></li>
+                          <li><a href="http://weibo.com/alisababe" target="_blank"><img src="http://tp4.sinaimg.cn/1742627071/50/5652666241/0" title="Alisa茜尹"/></a><a href="http://weibo.com/alisababe" target="_blank">Alisa茜尹</a></li>
+                          <li><a href="http://weibo.com/gogoseeyo" target="_blank"><img src="http://tp2.sinaimg.cn/1734353477/50/40012155788/0" title="喜子的鱼罐头"/></a><a href="http://weibo.com/gogoseeyo" target="_blank">喜子的鱼罐头</a></li>
+                          <li><a href="http://weibo.com/pets1021" target="_blank"><img src="http://tp2.sinaimg.cn/1705172021/50/5653569628/0" title="Pinky_HaNa"/></a><a href="http://weibo.com/pets1021" target="_blank">Pinky_HaNa</a></li>
+                          <li><a href="http://weibo.com/strawberry07" target="_blank"><img src="http://tp3.sinaimg.cn/1784125122/50/5645623610/0" title="盛冰洁"/></a><a href="http://weibo.com/strawberry07" target="_blank">盛冰洁</a></li>
+                          <li><a href="http://weibo.com/sukstar" target="_blank"><img src="http://tp3.sinaimg.cn/1751063830/50/5651251659/0" title="关小乐star"/></a><a href="http://weibo.com/sukstar" target="_blank">关小乐star</a></li>
+                          <li><a href="http://weibo.com/cy1daxin" target="_blank"><img src="http://tp3.sinaimg.cn/1701626514/50/5653064618/0" title="RRRAINIECHAN"/></a><a href="http://weibo.com/cy1daxin" target="_blank">RRRAINIECHAN</a></li>
+                          <li><a href="http://weibo.com/littleyun0608" target="_blank"><img src="http://tp3.sinaimg.cn/1767325082/50/5645758546/0" title="汤嘉芸"/></a><a href="http://weibo.com/littleyun0608" target="_blank">汤嘉芸</a></li>
+                          <li><a href="http://weibo.com/jiayuchaoren5230" target="_blank"><img src="http://tp1.sinaimg.cn/1581829580/50/40012940369/0" title="家羽Ada"/></a><a href="http://weibo.com/jiayuchaoren5230" target="_blank">家羽Ada</a></li>
+                        </ul>
+          </dd>
+        </dl>
+        </div>
+      	<div class="tList_mdu2">
+        <dl class="twit_list">
+          <dt>大家正在说</dt>
+          <dd style="position:relative;height:550px">
+              <div class="bottomcover" style="z-index:2;"></div>
+              <div class="maincontent" node-type="roll" style="position:relative;">
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/1493227254" target="_blank"><img src="http://tp3.sinaimg.cn/1493227254/50/5604113518/1" title="平安青田铁路"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/1493227254" target="_blank">平安青田铁路<img class="approve" title="新浪认证" src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif"></a>：转发微博<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/1578677187" target="_blank"><img src="http://tp4.sinaimg.cn/1578677187/50/5611064082/1" title="吕琦律师"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/1578677187" target="_blank">吕琦律师<img class="approve" title="新浪认证" src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif"></a>：//@林波律师://@明法贤士://@想要有思想的DD: //@张华志V:  //@南阳奥奔小杨11:死不瞑目啊//@泛美传媒中文网: 新浪微博最大爆料基地……我们正在直播……<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/ags468" target="_blank"><img src="http://tp4.sinaimg.cn/1966276943/50/5649895512/1" title="长春大旗"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/ags468" target="_blank">长春大旗<img class="approve" title="新浪认证" src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif"></a>：不爱说，不想说<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/1857349741" target="_blank"><img src="http://tp2.sinaimg.cn/1857349741/50/5653196120/1" title="文人张庆男"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/1857349741" target="_blank">文人张庆男<img class="approve" title="新浪认证" src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif"></a>：睡前调戏会妞妞，看会书<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/1965768551" target="_blank"><img src="http://tp4.sinaimg.cn/1965768551/50/5613788933/0" title="Helen冯海宁"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/1965768551" target="_blank">Helen冯海宁<img class="approve" title="新浪认证" src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif"></a>：YACHT http://t.cn/a9FU4m<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/2312674183" target="_blank"><img src="http://tp4.sinaimg.cn/2312674183/50/5622553348/1" title="Michael-owen-19960617"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/2312674183" target="_blank">Michael-owen-19960617<img class="approve" title="新浪认证" src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif"></a>：2013第一次出来玩喔。。@HenryLi_ @DYQ___irite @Duc-Do 还有@Vampire_Irina @FsH-方蒜 巨多笑点。。。。有空常出来<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/2374318252" target="_blank"><img src="http://tp1.sinaimg.cn/2374318252/50/40000566313/1" title="十裡八村"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/2374318252" target="_blank">十裡八村</a>：//@吴稼祥:环球时报应该多发发这些靠谱的话。中国没有邓小平，现在仍在盼肉汤。<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/1690635352" target="_blank"><img src="http://tp1.sinaimg.cn/1690635352/50/5652272138/0" title="TracyChan1"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/1690635352" target="_blank">TracyChan1<img class="approve" title="新浪认证" src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif"></a>：哈哈哈哈 //@仙人掌fei: 噗//@大红团: 噗。//@大玲子的猫叫大咪子哈: 哈哈哈哈哈！！！笑劈叉了要！ //@所长别开枪是我:感动尿了。。。//@谁允许你直视本蜀黍: 又相信爱情了…… //@卤吸吸:笑死我了哈哈哈哈哈哈 //@为排骨而生的人:。。。。。 //@菊萎会马大姐:<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/jsbaohua" target="_blank"><img src="http://tp3.sinaimg.cn/2290742894/50/5607587221/0" title="金山保化"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/jsbaohua" target="_blank">金山保化<img class="approve" title="新浪认证" src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif"></a>：回复@T晨雨:恩恩，要充满信心，gogo加油 //@T晨雨:效果应该不错哦！冰封的日子就要结束，曙光就在眼前<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/1826012047" target="_blank"><img src="http://tp4.sinaimg.cn/1826012047/50/40001802800/0" title="橙宝爱肉丸"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/1826012047" target="_blank">橙宝爱肉丸</a>：......<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/1944890207" target="_blank"><img src="http://tp4.sinaimg.cn/1944890207/50/5638081351/0" title="快乐口天吴"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/1944890207" target="_blank">快乐口天吴</a>：一些思念、一些伤感、一些无奈与无助、一些孤独。有些想<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/1820029403" target="_blank"><img src="http://tp4.sinaimg.cn/1820029403/50/1284855738/0" title="右手戒指ggc"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/1820029403" target="_blank">右手戒指ggc</a>：//@做饭很简单: 五类肤色与服装的完美搭配！留着学习啦~~！  淘便宜、抢实惠，就关注@地摊儿小分队<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/2235081911" target="_blank"><img src="http://tp4.sinaimg.cn/2235081911/50/5648507988/1" title="源嗣"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/2235081911" target="_blank">源嗣</a>：人的寂寞，有时候很难用语言表达。<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/2025306473" target="_blank"><img src="http://tp2.sinaimg.cn/2025306473/50/5646572553/1" title="槑槑槑槑槑泥煤啊"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/2025306473" target="_blank">槑槑槑槑槑泥煤啊</a>：//@触碰心灵的台词:向伟大的母亲致敬<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/1710721854" target="_blank"><img src="http://tp3.sinaimg.cn/1710721854/50/5652237899/0" title="小猴子哔哔哔"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/1710721854" target="_blank">小猴子哔哔哔</a>：很喜欢@卢广仲 的有声照片，听照片讲故事，很有意思哦，点击收听&gt;&gt;&gt;http://t.cn/zjsXeBp（来自@啪啪官方微博）<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/1826524262" target="_blank"><img src="http://tp3.sinaimg.cn/1826524262/50/5627628322/1" title="长胡子的怪蜀黍"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/1826524262" target="_blank">长胡子的怪蜀黍</a>：很喜欢@柠檬香香Catherine 的有声照片，听照片讲故事，很有意思哦，点击收听&gt;&gt;&gt;http://t.cn/zjsXeBq（来自@啪啪官方微博）<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/1774557390" target="_blank"><img src="http://tp3.sinaimg.cn/1774557390/50/40013004709/1" title="老鹰养生"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/1774557390" target="_blank">老鹰养生</a>：以水性蛰藏，太阳寒水蛰藏，三焦之火秘于肾脏，则内温而外清，水府清通。《糟粕传导》#四圣心源#三焦的火以太阳寒水的水性蛰藏在肾，火秘于内水敛于外，木火主里，自内而生长之，故里气常温。金水主表，自外而收藏之，故表气常清。血生于木火，故血温而内发。气化于金水，故气清而外敛。水道清纯通达。<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+                                  <div class="itemt">
+                        <div class="twit_item MIB_linedot2">
+                          <div class="twit_item_pic"><a href="http://weibo.com/2659162603" target="_blank"><img src="http://tp4.sinaimg.cn/2659162603/50/40011667759/0" title="潜意识失忆不了情"/></a></div>
+                          <div class="twit_item_content"> <a href="http://weibo.com/2659162603" target="_blank">潜意识失忆不了情</a>：//@时尚经典语录:写给23岁以上女人<div class="twit_item_time">2分钟前</div></div>
+                        </div>
+                    </div>
+               
+              </div>
+          </dd>
+        </dl>
+        </div>
+        <div class="clearit"></div>
+      </div>
+    </div>
+		<div class="login_r">
+      <div class="login_item">
+        <div class="regtop"> <a target="_blank" href="/signup/signup.php?ps=u3&lang=zh-cn" class="regbtn" title="立即注册" tabindex="7"></a>
+		  <p><a class="red" href="http://weibo.com/a/checkin/index?c=spr_wbpop_tblog_login_tg_012" target="_blank" suda-data="key=weibo_login&value=weibo_tuiguang">新年倒计时，登录赢iphone！</a></p>
+		  </div>
+				<!-- 登录组件HTML start -->
+		<div id="login_form"></div>
+		<!-- 登录组件HTML end -->
+		<div class="recommend_area">
+			<div class="recommend_link">
+				<div class="recommend_bg_right">
+					<p><a href="http://huati.weibo.com/z/invite/?from=weidenglu" suda-data="key=weibo_login&value=weibo_tuiguang_2" target="_blank">邀请好友开微博，赢好礼！ <span>&gt;&gt;</span></a></p>
+				</div>
+			</div>
+		</div>
+        <div class="hezuo_login"> <strong>使用其他帐号登录</strong> 
+	        <span><i class="hezuo_login1"></i><a class="msnlink" tabindex="6" title="MSN" href="javascript:void(0);" node-type="msn" >MSN</a></span><b>|</b>
+	        <span><i class="hezuo_login3"></i><a target="_blank" href="http://weibo.com/bind/gotooauth.php?company=189.cn" >天翼</a></span><b>|</b>
+	        <span><i class="hezuo_login4"></i><a target="_blank" href="http://weibo.com/bind/gotooauth.php?company=wo.com.cn" >联通</a></span><b>|</b>
+	        <span><i class="hezuo_login5"></i><a target="_blank" href="https://openapi.360.cn/oauth2/authorize?client_id=f48a9f02f41ca0ddaf4f01ae523294c7&response_type=code&redirect_uri=http://weibo.com/bind/bind_360.php&scope=basic&display=default" >360</a></span>
+        </div>                  </div>
+      <div class="login_info ptless">
+      	<div class="leftline">
+            <dl>
+              <dt class="hasline"></dt>
+              <dd class="boardlist">
+                <ul class="tLoginTop10List">
+                                	<li><em class="num1"><strong></strong></em><span><a title="姚晨" target="_blank" href="http://weibo.com/yaochen">姚晨</a></span>
+                	<cite>33,614,689</cite></li>
+                                	<li><em class="num2"><strong></strong></em><span><a title="赵薇" target="_blank" href="http://weibo.com/zhaowei">赵薇</a></span>
+                	<cite>29,507,222</cite></li>
+                                	<li><em class="num3"><strong></strong></em><span><a title="王力宏" target="_blank" href="http://weibo.com/leehom">王力宏</a></span>
+                	<cite>29,027,659</cite></li>
+                                	<li><em class="num4"><strong></strong></em><span><a title="谢娜" target="_blank" href="http://weibo.com/xiena">谢娜</a></span>
+                	<cite>28,280,112</cite></li>
+                                	<li><em class="num5"><strong></strong></em><span><a title="陈坤" target="_blank" href="http://weibo.com/chenkun">陈坤</a></span>
+                	<cite>28,245,013</cite></li>
+                                	<li><em class="num6"><strong></strong></em><span><a title="何炅" target="_blank" href="http://weibo.com/hejiong">何炅</a></span>
+                	<cite>26,461,154</cite></li>
+                                	<li><em class="num7"><strong></strong></em><span><a title="李开复" target="_blank" href="http://weibo.com/kaifulee">李开复</a></span>
+                	<cite>26,300,751</cite></li>
+                                	<li><em class="num8"><strong></strong></em><span><a title="林心如" target="_blank" href="http://weibo.com/linxinru">林心如</a></span>
+                	<cite>26,289,606</cite></li>
+                                	<li><em class="num9"><strong></strong></em><span><a title="周立波" target="_blank" href="http://weibo.com/zhoulibo">周立波</a></span>
+                	<cite>26,224,989</cite></li>
+                                	<li><em class="num10"><strong></strong></em><span><a title="郭德纲" target="_blank" href="http://weibo.com/guodegang">郭德纲</a></span>
+                	<cite>25,758,521</cite></li>
+                                </ul>
+              </dd>
+            </dl>
+            <div class="dlblank">
+				<dl>
+				  <dd><a target="_blank" href="http://news.sina.com.cn/c/2011-12-23/141623682749.shtml">《北京微博发展管理若干规定》</a></dd>
+				</dl>
+				<dl>
+				  <dt>如何用手机上微博</dt>
+				  <dd>
+					<p>WAP版微博地址：<cite>weibo.cn</cite></p>
+					<p class="more"></p>
+				  </dd>
+				</dl>
+            </div>
+            <div class="clearit"></div>
+        </div>
+      </div>
+    </div>
+    <div class="clearit"></div>  </div>  
+  <div class="bodybt">
+    <div class="MIB_foot_new MIB_txtbr MIB_linkbr">
+       <div class="lf">
+			<p class="p1"><a target="_blank" href="http://help.weibo.com/">微博帮助</a><a target="_blank" href="http://weibo.com/k/weijianyi">意见反馈</a><!--<a target="_blank" href="http://weibo.com/verified">微博认证及合作</a>--><a target="_blank" href="http://open.weibo.com/">开放平台</a><a target="_blank" href="http://hr.weibo.com">微博招聘</a><a target="_blank" href="http://news.sina.com.cn/guide/">新浪网导航</a><a target="_blank" href="http://weibo.com/complaint/complaint.php?url=http%3A%2F%2Fweibo.com%2F2006764843"><img class="informIcon" src="http://img.t.sinajs.cn/t4/style/images/common/transparent.gif">不良信息举报</a></p>
+			<p>客服电话：400 096 0960（个人） 400 098 0980（企业） (按当地市话标准计费)</p>
+			<p class="p1">北京微梦创科网络技术有限公司　<a href="http://weibo.com/aj/static/jww.html" target="_blank">京网文[2011]0398-130号</a><a href="http://www.miibeian.gov.cn" target="_blank">京ICP证100780号</a></p>
+		</div>     
+            <div class="rt">                    
+               <p>语言：
+			       <select onchange="location.href=this.value" id="lang_select">
+						<option value="?lang=zh-cn" selected>中文(简体)</option>
+						<option value="?lang=zh-tw">中文(繁体)</option>		
+			        </select>
+			   </p>
+			    <p><a href="http://www.sina.com.cn/" target="_blank">新浪公司</a> <a href="http://corp.sina.com.cn/chn/copyright.html" target="_blank">版权所有</a></p>
+             </div>
+            <div class="clearit"></div>
+			<div class="botLogo"><a target="_blank" href="http://net.china.com.cn/index.htm"><img src="http://img.t.sinajs.cn/t35/style/images/tlogin/botlogo.png"></a></div> 
+    </div>
+  </div>
+</div>
+<!-- SUDA_CODE_START -->
+<script type='text/javascript' charset="utf-8">
+(function() {
+	var doc = document,
+		wa = doc.createElement('script'),
+		s = doc.getElementsByTagName('script')[0];
+    wa.type = 'text/javascript';
+    wa.charset = 'utf-8';
+    wa.async = true;
+    wa.src = ('https:' == doc.location.protocol ? 'https://' : 'http://') + 'js.t.sinajs.cn/open/analytics/js/suda.js?version=e12ac92f5c3da6cc';
+    s.parentNode.insertBefore(wa, s);
+})();
+</script>
+<noScript>
+<img width="0" height="0" src="http://beacon.sina.com.cn/a.gif?noScript" border="0" alt="" />
+</noScript>
+<!-- SUDA_CODE_END -->
+<script type="text/javascript" src="http://js.t.sinajs.cn/t35/miniblog/static/js/sso.js?version=e12ac92f5c3da6cc"></script>
+<script type="text/javascript" src="http://js.t.sinajs.cn/t4/apps/secure/js/login/plugin.js?version=e12ac92f5c3da6cc"></script>
+<script type="text/javascript" src="http://js.t.sinajs.cn/t4/home/js/login/index.js?version=e12ac92f5c3da6cc"></script>
+<script type="text/javascript" src="http://www.sinaimg.cn/unipro/pub/suda_m_v629.js?version=e12ac92f5c3da6cc"></script>
+<script type="text/javascript" src="http://js.t.sinajs.cn/t4/apps/publicity/static/wbad.js?version=e12ac92f5c3da6cc"></script> 
+<script type="text/javascript">suds_init(2177,1.0000,1015,2);</script>
+<!-- by yaf-->
+</body>
+</html>
