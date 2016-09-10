@@ -1,0 +1,548 @@
+Microsoft (R) Macro Assembler Version 5.00 
+Copyright (C) Microsoft Corp 1981-1985, 1987.  All rights reserved.
+
+Object filename [loader.OBJ]: Source listing  [NUL.LST]: Cross-reference [NUL.CRF]: End of file encountered on input file
+loader.ASM(715): warning A4085: End of file, no END directive
+loader.ASM(3): error A2105: Expected: instruction or directive
+loader.ASM(4): error A2086: Data emitted with no segment
+loader.ASM(5): error A2086: Data emitted with no segment
+loader.ASM(6): error A2000: Block nesting error
+loader.ASM(8): error A2105: Expected: instruction or directive
+loader.ASM(9): error A2086: Data emitted with no segment
+loader.ASM(10): error A2086: Data emitted with no segment
+loader.ASM(11): error A2086: Data emitted with no segment
+loader.ASM(12): error A2086: Data emitted with no segment
+loader.ASM(13): error A2086: Data emitted with no segment
+loader.ASM(14): error A2000: Block nesting error
+loader.ASM(30): error A2062: Missing or unreachable CS
+loader.ASM(31): error A2086: Data emitted with no segment
+loader.ASM(32): error A2086: Data emitted with no segment
+loader.ASM(33): error A2086: Data emitted with no segment
+loader.ASM(34): error A2086: Data emitted with no segment
+loader.ASM(35): error A2086: Data emitted with no segment
+loader.ASM(37): error A2086: Data emitted with no segment
+loader.ASM(38): error A2086: Data emitted with no segment
+loader.ASM(39): error A2086: Data emitted with no segment
+loader.ASM(40): error A2086: Data emitted with no segment
+loader.ASM(41): error A2086: Data emitted with no segment
+loader.ASM(44): error A2062: Missing or unreachable CS
+loader.ASM(45): error A2011: Type illegal in context
+loader.ASM(46): error A2086: Data emitted with no segment
+loader.ASM(47): error A2011: Type illegal in context
+loader.ASM(48): error A2011: Type illegal in context
+loader.ASM(50): error A2062: Missing or unreachable CS
+loader.ASM(51): error A2011: Type illegal in context
+loader.ASM(52): error A2086: Data emitted with no segment
+loader.ASM(53): error A2011: Type illegal in context
+loader.ASM(54): error A2086: Data emitted with no segment
+loader.ASM(55): error A2086: Data emitted with no segment
+loader.ASM(56): error A2086: Data emitted with no segment
+loader.ASM(57): error A2086: Data emitted with no segment
+loader.ASM(58): error A2086: Data emitted with no segment
+loader.ASM(59): error A2086: Data emitted with no segment
+loader.ASM(60): error A2011: Type illegal in context
+loader.ASM(61): error A2086: Data emitted with no segment
+loader.ASM(62): error A2086: Data emitted with no segment
+loader.ASM(63): warning A4057: Illegal size for operand
+loader.ASM(64): error A2086: Data emitted with no segment
+loader.ASM(65): error A2086: Data emitted with no segment
+loader.ASM(66): error A2086: Data emitted with no segment
+loader.ASM(68): error A2086: Data emitted with no segment
+loader.ASM(69): error A2062: Missing or unreachable CS
+loader.ASM(70): error A2086: Data emitted with no segment
+loader.ASM(71): error A2086: Data emitted with no segment
+loader.ASM(72): error A2086: Data emitted with no segment
+loader.ASM(73): error A2086: Data emitted with no segment
+loader.ASM(74): error A2062: Missing or unreachable CS
+loader.ASM(75): error A2086: Data emitted with no segment
+loader.ASM(76): error A2086: Data emitted with no segment
+loader.ASM(77): error A2086: Data emitted with no segment
+loader.ASM(78): error A2086: Data emitted with no segment
+loader.ASM(79): error A2061: Improper use of segment register
+loader.ASM(80): error A2086: Data emitted with no segment
+loader.ASM(81): error A2086: Data emitted with no segment
+loader.ASM(83): error A2062: Missing or unreachable CS
+loader.ASM(84): error A2086: Data emitted with no segment
+loader.ASM(85): error A2086: Data emitted with no segment
+loader.ASM(86): error A2062: Missing or unreachable CS
+loader.ASM(87): error A2086: Data emitted with no segment
+loader.ASM(89): error A2086: Data emitted with no segment
+loader.ASM(90): error A2011: Type illegal in context
+loader.ASM(91): error A2086: Data emitted with no segment
+loader.ASM(92): error A2086: Data emitted with no segment
+loader.ASM(93): warning A4057: Illegal size for operand
+loader.ASM(94): error A2086: Data emitted with no segment
+loader.ASM(95): error A2086: Data emitted with no segment
+loader.ASM(96): error A2062: Missing or unreachable CS
+loader.ASM(97): error A2011: Type illegal in context
+loader.ASM(98): error A2086: Data emitted with no segment
+loader.ASM(99): error A2062: Missing or unreachable CS
+loader.ASM(100): error A2086: Data emitted with no segment
+loader.ASM(101): error A2086: Data emitted with no segment
+loader.ASM(103): error A2086: Data emitted with no segment
+loader.ASM(104): error A2086: Data emitted with no segment
+loader.ASM(105): error A2086: Data emitted with no segment
+loader.ASM(106): error A2062: Missing or unreachable CS
+loader.ASM(107): error A2086: Data emitted with no segment
+loader.ASM(108): error A2086: Data emitted with no segment
+loader.ASM(109): error A2086: Data emitted with no segment
+loader.ASM(110): error A2061: Improper use of segment register
+loader.ASM(111): error A2086: Data emitted with no segment
+loader.ASM(112): error A2086: Data emitted with no segment
+loader.ASM(113): error A2086: Data emitted with no segment
+loader.ASM(114): error A2011: Type illegal in context
+loader.ASM(115): error A2086: Data emitted with no segment
+loader.ASM(116): error A2086: Data emitted with no segment
+loader.ASM(117): warning A4057: Illegal size for operand
+loader.ASM(118): error A2086: Data emitted with no segment
+loader.ASM(119): error A2086: Data emitted with no segment
+loader.ASM(120): error A2086: Data emitted with no segment
+loader.ASM(121): error A2086: Data emitted with no segment
+loader.ASM(122): error A2062: Missing or unreachable CS
+loader.ASM(123): error A2086: Data emitted with no segment
+loader.ASM(124): error A2086: Data emitted with no segment
+loader.ASM(125): error A2086: Data emitted with no segment
+loader.ASM(126): error A2086: Data emitted with no segment
+loader.ASM(127): error A2086: Data emitted with no segment
+loader.ASM(128): error A2086: Data emitted with no segment
+loader.ASM(129): error A2086: Data emitted with no segment
+loader.ASM(130): error A2086: Data emitted with no segment
+loader.ASM(131): error A2086: Data emitted with no segment
+loader.ASM(132): error A2086: Data emitted with no segment
+loader.ASM(133): error A2086: Data emitted with no segment
+loader.ASM(134): error A2086: Data emitted with no segment
+loader.ASM(135): error A2062: Missing or unreachable CS
+loader.ASM(136): error A2011: Type illegal in context
+loader.ASM(137): error A2011: Type illegal in context
+loader.ASM(138): error A2053: Jump out of range by 82 byte(s)
+loader.ASM(139): error A2086: Data emitted with no segment
+loader.ASM(140): error A2086: Data emitted with no segment
+loader.ASM(143): error A2086: Data emitted with no segment
+loader.ASM(148): error A2086: Data emitted with no segment
+loader.ASM(150): error A2086: Data emitted with no segment
+loader.ASM(151): error A2086: Data emitted with no segment
+loader.ASM(152): error A2086: Data emitted with no segment
+loader.ASM(153): error A2086: Data emitted with no segment
+loader.ASM(154): error A2086: Data emitted with no segment
+loader.ASM(155): error A2086: Data emitted with no segment
+loader.ASM(156): error A2062: Missing or unreachable CS
+loader.ASM(158): error A2062: Missing or unreachable CS
+loader.ASM(159): error A2086: Data emitted with no segment
+loader.ASM(160): error A2086: Data emitted with no segment
+loader.ASM(161): error A2086: Data emitted with no segment
+loader.ASM(164): error A2062: Missing or unreachable CS
+loader.ASM(165): error A2086: Data emitted with no segment
+loader.ASM(166): error A2086: Data emitted with no segment
+loader.ASM(167): error A2086: Data emitted with no segment
+loader.ASM(168): error A2086: Data emitted with no segment
+loader.ASM(169): error A2086: Data emitted with no segment
+loader.ASM(176): error A2062: Missing or unreachable CS
+loader.ASM(177): error A2086: Data emitted with no segment
+loader.ASM(178): error A2086: Data emitted with no segment
+loader.ASM(179): warning A4057: Illegal size for operand
+loader.ASM(180): error A2086: Data emitted with no segment
+loader.ASM(181): error A2086: Data emitted with no segment
+loader.ASM(182): error A2086: Data emitted with no segment
+loader.ASM(183): error A2086: Data emitted with no segment
+loader.ASM(184): error A2086: Data emitted with no segment
+loader.ASM(185): error A2086: Data emitted with no segment
+loader.ASM(186): error A2086: Data emitted with no segment
+loader.ASM(187): error A2086: Data emitted with no segment
+loader.ASM(188): error A2086: Data emitted with no segment
+loader.ASM(195): error A2062: Missing or unreachable CS
+loader.ASM(205): error A2086: Data emitted with no segment
+loader.ASM(206): error A2086: Data emitted with no segment
+loader.ASM(207): error A2086: Data emitted with no segment
+loader.ASM(208): error A2011: Type illegal in context
+loader.ASM(209): error A2086: Data emitted with no segment
+loader.ASM(210): warning A4031: Operand types must match
+loader.ASM(211): error A2086: Data emitted with no segment
+loader.ASM(212): error A2086: Data emitted with no segment
+loader.ASM(213): error A2086: Data emitted with no segment
+loader.ASM(214): error A2086: Data emitted with no segment
+loader.ASM(215): error A2086: Data emitted with no segment
+loader.ASM(216): error A2086: Data emitted with no segment
+loader.ASM(217): error A2086: Data emitted with no segment
+loader.ASM(218): error A2086: Data emitted with no segment
+loader.ASM(220): error A2086: Data emitted with no segment
+loader.ASM(221): error A2062: Missing or unreachable CS
+loader.ASM(222): error A2086: Data emitted with no segment
+loader.ASM(223): error A2011: Type illegal in context
+loader.ASM(224): error A2086: Data emitted with no segment
+loader.ASM(225): error A2086: Data emitted with no segment
+loader.ASM(227): error A2086: Data emitted with no segment
+loader.ASM(228): error A2086: Data emitted with no segment
+loader.ASM(230): error A2086: Data emitted with no segment
+loader.ASM(238): error A2062: Missing or unreachable CS
+loader.ASM(239): error A2086: Data emitted with no segment
+loader.ASM(240): error A2086: Data emitted with no segment
+loader.ASM(241): error A2086: Data emitted with no segment
+loader.ASM(242): error A2086: Data emitted with no segment
+loader.ASM(243): error A2086: Data emitted with no segment
+loader.ASM(244): error A2086: Data emitted with no segment
+loader.ASM(246): error A2086: Data emitted with no segment
+loader.ASM(247): error A2011: Type illegal in context
+loader.ASM(248): error A2086: Data emitted with no segment
+loader.ASM(249): error A2086: Data emitted with no segment
+loader.ASM(250): error A2086: Data emitted with no segment
+loader.ASM(251): error A2086: Data emitted with no segment
+loader.ASM(252): error A2086: Data emitted with no segment
+loader.ASM(253): error A2086: Data emitted with no segment
+loader.ASM(254): error A2086: Data emitted with no segment
+loader.ASM(255): error A2011: Type illegal in context
+loader.ASM(256): error A2062: Missing or unreachable CS
+loader.ASM(259): error A2086: Data emitted with no segment
+loader.ASM(260): error A2086: Data emitted with no segment
+loader.ASM(261): error A2086: Data emitted with no segment
+loader.ASM(264): error A2086: Data emitted with no segment
+loader.ASM(265): error A2086: Data emitted with no segment
+loader.ASM(266): error A2086: Data emitted with no segment
+loader.ASM(267): error A2086: Data emitted with no segment
+loader.ASM(268): error A2086: Data emitted with no segment
+loader.ASM(269): error A2086: Data emitted with no segment
+loader.ASM(270): error A2086: Data emitted with no segment
+loader.ASM(271): error A2061: Improper use of segment register
+loader.ASM(272): error A2011: Type illegal in context
+loader.ASM(273): error A2086: Data emitted with no segment
+loader.ASM(274): error A2052: Improper operand type
+loader.ASM(275): error A2062: Missing or unreachable CS
+loader.ASM(276): error A2086: Data emitted with no segment
+loader.ASM(277): error A2062: Missing or unreachable CS
+loader.ASM(278): error A2086: Data emitted with no segment
+loader.ASM(279): error A2086: Data emitted with no segment
+loader.ASM(280): error A2086: Data emitted with no segment
+loader.ASM(284): error A2062: Missing or unreachable CS
+loader.ASM(285): error A2086: Data emitted with no segment
+loader.ASM(286): error A2086: Data emitted with no segment
+loader.ASM(287): error A2086: Data emitted with no segment
+loader.ASM(288): error A2086: Data emitted with no segment
+loader.ASM(289): error A2086: Data emitted with no segment
+loader.ASM(290): error A2086: Data emitted with no segment
+loader.ASM(291): error A2086: Data emitted with no segment
+loader.ASM(292): error A2086: Data emitted with no segment
+loader.ASM(293): error A2086: Data emitted with no segment
+loader.ASM(294): error A2086: Data emitted with no segment
+loader.ASM(295): error A2086: Data emitted with no segment
+loader.ASM(296): error A2086: Data emitted with no segment
+loader.ASM(297): error A2086: Data emitted with no segment
+loader.ASM(298): error A2086: Data emitted with no segment
+loader.ASM(299): error A2086: Data emitted with no segment
+loader.ASM(300): error A2086: Data emitted with no segment
+loader.ASM(301): error A2086: Data emitted with no segment
+loader.ASM(302): error A2086: Data emitted with no segment
+loader.ASM(303): error A2086: Data emitted with no segment
+loader.ASM(304): error A2086: Data emitted with no segment
+loader.ASM(305): error A2086: Data emitted with no segment
+loader.ASM(306): error A2086: Data emitted with no segment
+loader.ASM(307): error A2086: Data emitted with no segment
+loader.ASM(308): error A2086: Data emitted with no segment
+loader.ASM(309): error A2086: Data emitted with no segment
+loader.ASM(310): error A2086: Data emitted with no segment
+loader.ASM(311): error A2086: Data emitted with no segment
+loader.ASM(312): error A2086: Data emitted with no segment
+loader.ASM(313): error A2086: Data emitted with no segment
+loader.ASM(314): error A2086: Data emitted with no segment
+loader.ASM(315): error A2086: Data emitted with no segment
+loader.ASM(316): error A2086: Data emitted with no segment
+loader.ASM(317): error A2086: Data emitted with no segment
+loader.ASM(318): error A2086: Data emitted with no segment
+loader.ASM(319): error A2086: Data emitted with no segment
+loader.ASM(320): error A2086: Data emitted with no segment
+loader.ASM(321): error A2086: Data emitted with no segment
+loader.ASM(322): error A2086: Data emitted with no segment
+loader.ASM(323): error A2086: Data emitted with no segment
+loader.ASM(324): error A2086: Data emitted with no segment
+loader.ASM(325): error A2086: Data emitted with no segment
+loader.ASM(326): error A2086: Data emitted with no segment
+loader.ASM(327): error A2086: Data emitted with no segment
+loader.ASM(328): error A2086: Data emitted with no segment
+loader.ASM(329): error A2086: Data emitted with no segment
+loader.ASM(330): error A2086: Data emitted with no segment
+loader.ASM(331): error A2086: Data emitted with no segment
+loader.ASM(332): error A2086: Data emitted with no segment
+loader.ASM(333): error A2086: Data emitted with no segment
+loader.ASM(334): error A2086: Data emitted with no segment
+loader.ASM(335): error A2086: Data emitted with no segment
+loader.ASM(336): error A2086: Data emitted with no segment
+loader.ASM(337): error A2086: Data emitted with no segment
+loader.ASM(338): error A2086: Data emitted with no segment
+loader.ASM(339): error A2086: Data emitted with no segment
+loader.ASM(340): error A2086: Data emitted with no segment
+loader.ASM(341): error A2086: Data emitted with no segment
+loader.ASM(342): error A2086: Data emitted with no segment
+loader.ASM(343): error A2086: Data emitted with no segment
+loader.ASM(344): error A2086: Data emitted with no segment
+loader.ASM(345): error A2086: Data emitted with no segment
+loader.ASM(346): error A2086: Data emitted with no segment
+loader.ASM(347): error A2086: Data emitted with no segment
+loader.ASM(348): error A2086: Data emitted with no segment
+loader.ASM(349): error A2086: Data emitted with no segment
+loader.ASM(353): error A2105: Expected: instruction or directive
+loader.ASM(354): error A2086: Data emitted with no segment
+loader.ASM(355): error A2086: Data emitted with no segment
+loader.ASM(356): error A2086: Data emitted with no segment
+loader.ASM(357): error A2086: Data emitted with no segment
+loader.ASM(358): error A2086: Data emitted with no segment
+loader.ASM(359): error A2086: Data emitted with no segment
+loader.ASM(360): error A2009: Symbol not defined: GS
+loader.ASM(361): error A2000: Block nesting error
+loader.ASM(363): error A2062: Missing or unreachable CS
+loader.ASM(365): error A2086: Data emitted with no segment
+loader.ASM(367): error A2086: Data emitted with no segment
+loader.ASM(368): error A2086: Data emitted with no segment
+loader.ASM(369): error A2062: Missing or unreachable CS
+loader.ASM(370): error A2086: Data emitted with no segment
+loader.ASM(372): error A2105: Expected: instruction or directive
+loader.ASM(374): error A2105: Expected: instruction or directive
+loader.ASM(377): error A2086: Data emitted with no segment
+loader.ASM(378): error A2086: Data emitted with no segment
+loader.ASM(379): error A2086: Data emitted with no segment
+loader.ASM(380): error A2086: Data emitted with no segment
+loader.ASM(381): error A2086: Data emitted with no segment
+loader.ASM(382): error A2086: Data emitted with no segment
+loader.ASM(383): error A2086: Data emitted with no segment
+loader.ASM(384): error A2086: Data emitted with no segment
+loader.ASM(385): error A2086: Data emitted with no segment
+loader.ASM(386): error A2086: Data emitted with no segment
+loader.ASM(387): error A2086: Data emitted with no segment
+loader.ASM(388): error A2086: Data emitted with no segment
+loader.ASM(390): error A2062: Missing or unreachable CS
+loader.ASM(391): error A2086: Data emitted with no segment
+loader.ASM(392): warning A4057: Illegal size for operand
+loader.ASM(393): error A2086: Data emitted with no segment
+loader.ASM(394): error A2086: Data emitted with no segment
+loader.ASM(395): error A2062: Missing or unreachable CS
+loader.ASM(396): error A2086: Data emitted with no segment
+loader.ASM(397): warning A4057: Illegal size for operand
+loader.ASM(398): error A2086: Data emitted with no segment
+loader.ASM(399): error A2086: Data emitted with no segment
+loader.ASM(400): error A2062: Missing or unreachable CS
+loader.ASM(401): error A2086: Data emitted with no segment
+loader.ASM(402): warning A4057: Illegal size for operand
+loader.ASM(403): error A2086: Data emitted with no segment
+loader.ASM(404): error A2086: Data emitted with no segment
+loader.ASM(405): error A2062: Missing or unreachable CS
+loader.ASM(406): error A2086: Data emitted with no segment
+loader.ASM(407): warning A4057: Illegal size for operand
+loader.ASM(408): error A2086: Data emitted with no segment
+loader.ASM(409): error A2086: Data emitted with no segment
+loader.ASM(412): error A2062: Missing or unreachable CS
+loader.ASM(415): error A2086: Data emitted with no segment
+loader.ASM(416): error A2011: Type illegal in context
+loader.ASM(417): error A2011: Type illegal in context
+loader.ASM(420): error A2105: Expected: instruction or directive
+loader.ASM(422): error A2086: Data emitted with no segment
+loader.ASM(424): error A2086: Data emitted with no segment
+loader.ASM(426): warning A4057: Illegal size for operand
+loader.ASM(427): error A2086: Data emitted with no segment
+loader.ASM(428): error A2086: Data emitted with no segment
+loader.ASM(429): warning A4057: Illegal size for operand
+loader.ASM(430): warning A4057: Illegal size for operand
+loader.ASM(431): warning A4057: Illegal size for operand
+loader.ASM(432): warning A4057: Illegal size for operand
+loader.ASM(436): error A2086: Data emitted with no segment
+loader.ASM(437): error A2086: Data emitted with no segment
+loader.ASM(438): error A2061: Improper use of segment register
+loader.ASM(439): error A2086: Data emitted with no segment
+loader.ASM(440): error A2061: Improper use of segment register
+loader.ASM(443): error A2086: Data emitted with no segment
+loader.ASM(444): error A2086: Data emitted with no segment
+loader.ASM(445): error A2086: Data emitted with no segment
+loader.ASM(447): error A2062: Missing or unreachable CS
+loader.ASM(449): error A2086: Data emitted with no segment
+loader.ASM(450): error A2086: Data emitted with no segment
+loader.ASM(451): error A2029: Division by 0 or overflow
+loader.ASM(452): error A2086: Data emitted with no segment
+loader.ASM(453): error A2086: Data emitted with no segment
+loader.ASM(454): error A2086: Data emitted with no segment
+loader.ASM(455): error A2086: Data emitted with no segment
+loader.ASM(459): error A2062: Missing or unreachable CS
+loader.ASM(461): error A2105: Expected: instruction or directive
+loader.ASM(462): error A2086: Data emitted with no segment
+loader.ASM(463): error A2086: Data emitted with no segment
+loader.ASM(464): error A2009: Symbol not defined: FS
+loader.ASM(465): error A2009: Symbol not defined: GS
+loader.ASM(468): error A2086: Data emitted with no segment
+loader.ASM(469): error A2086: Data emitted with no segment
+loader.ASM(470): error A2011: Type illegal in context
+loader.ASM(471): error A2086: Data emitted with no segment
+loader.ASM(472): error A2011: Type illegal in context
+loader.ASM(475): error A2086: Data emitted with no segment
+loader.ASM(476): error A2086: Data emitted with no segment
+loader.ASM(477): error A2086: Data emitted with no segment
+loader.ASM(480): error A2086: Data emitted with no segment
+loader.ASM(481): warning A4016: Reserved word used as symbol: END
+loader.ASM(483): error A2086: Data emitted with no segment
+loader.ASM(484): error A2086: Data emitted with no segment
+loader.ASM(485): error A2086: Data emitted with no segment
+loader.ASM(487): error A2009: Symbol not defined: GS
+loader.ASM(488): error A2009: Symbol not defined: FS
+loader.ASM(489): error A2086: Data emitted with no segment
+loader.ASM(490): error A2086: Data emitted with no segment
+loader.ASM(491): error A2105: Expected: instruction or directive
+loader.ASM(492): error A2086: Data emitted with no segment
+loader.ASM(497): error A2062: Missing or unreachable CS
+loader.ASM(499): error A2086: Data emitted with no segment
+loader.ASM(500): error A2086: Data emitted with no segment
+loader.ASM(501): error A2086: Data emitted with no segment
+loader.ASM(502): error A2086: Data emitted with no segment
+loader.ASM(503): error A2086: Data emitted with no segment
+loader.ASM(504): error A2086: Data emitted with no segment
+loader.ASM(505): error A2086: Data emitted with no segment
+loader.ASM(506): error A2061: Improper use of segment register
+loader.ASM(507): error A2086: Data emitted with no segment
+loader.ASM(508): error A2086: Data emitted with no segment
+loader.ASM(509): error A2086: Data emitted with no segment
+loader.ASM(512): error A2086: Data emitted with no segment
+loader.ASM(513): error A2086: Data emitted with no segment
+loader.ASM(515): error A2086: Data emitted with no segment
+loader.ASM(518): error A2086: Data emitted with no segment
+loader.ASM(519): error A2086: Data emitted with no segment
+loader.ASM(520): error A2011: Type illegal in context
+loader.ASM(523): error A2011: Type illegal in context
+loader.ASM(524): error A2086: Data emitted with no segment
+loader.ASM(525): error A2011: Type illegal in context
+loader.ASM(526): error A2086: Data emitted with no segment
+loader.ASM(527): error A2062: Missing or unreachable CS
+loader.ASM(528): error A2011: Type illegal in context
+loader.ASM(529): error A2011: Type illegal in context
+loader.ASM(530): error A2011: Type illegal in context
+loader.ASM(531): error A2062: Missing or unreachable CS
+loader.ASM(532): error A2086: Data emitted with no segment
+loader.ASM(534): error A2086: Data emitted with no segment
+loader.ASM(538): error A2062: Missing or unreachable CS
+loader.ASM(540): error A2086: Data emitted with no segment
+loader.ASM(541): error A2086: Data emitted with no segment
+loader.ASM(542): error A2086: Data emitted with no segment
+loader.ASM(544): error A2086: Data emitted with no segment
+loader.ASM(546): error A2011: Type illegal in context
+loader.ASM(547): error A2086: Data emitted with no segment
+loader.ASM(548): error A2011: Type illegal in context
+loader.ASM(549): error A2086: Data emitted with no segment
+loader.ASM(551): error A2086: Data emitted with no segment
+loader.ASM(555): error A2009: Symbol not defined: GS
+loader.ASM(556): error A2009: Symbol not defined: FS
+loader.ASM(557): error A2086: Data emitted with no segment
+loader.ASM(558): error A2086: Data emitted with no segment
+loader.ASM(559): error A2105: Expected: instruction or directive
+loader.ASM(560): error A2086: Data emitted with no segment
+loader.ASM(561): error A2086: Data emitted with no segment
+loader.ASM(562): error A2086: Data emitted with no segment
+loader.ASM(564): error A2086: Data emitted with no segment
+loader.ASM(565): error A2086: Data emitted with no segment
+loader.ASM(566): error A2086: Data emitted with no segment
+loader.ASM(570): error A2086: Data emitted with no segment
+loader.ASM(571): error A2011: Type illegal in context
+loader.ASM(574): error A2086: Data emitted with no segment
+loader.ASM(575): error A2086: Data emitted with no segment
+loader.ASM(576): error A2011: Type illegal in context
+loader.ASM(577): error A2086: Data emitted with no segment
+loader.ASM(578): error A2011: Type illegal in context
+loader.ASM(581): error A2086: Data emitted with no segment
+loader.ASM(582): error A2086: Data emitted with no segment
+loader.ASM(585): error A2086: Data emitted with no segment
+loader.ASM(590): error A2062: Missing or unreachable CS
+loader.ASM(591): error A2086: Data emitted with no segment
+loader.ASM(592): error A2086: Data emitted with no segment
+loader.ASM(593): warning A4031: Operand types must match
+loader.ASM(594): error A2086: Data emitted with no segment
+loader.ASM(595): error A2086: Data emitted with no segment
+loader.ASM(596): error A2086: Data emitted with no segment
+loader.ASM(597): error A2086: Data emitted with no segment
+loader.ASM(598): error A2086: Data emitted with no segment
+loader.ASM(599): error A2086: Data emitted with no segment
+loader.ASM(600): error A2086: Data emitted with no segment
+loader.ASM(606): error A2006: Phase error between passes
+loader.ASM(608): error A2086: Data emitted with no segment
+loader.ASM(611): error A2086: Data emitted with no segment
+loader.ASM(612): error A2086: Data emitted with no segment
+loader.ASM(613): error A2086: Data emitted with no segment
+loader.ASM(614): error A2086: Data emitted with no segment
+loader.ASM(615): error A2086: Data emitted with no segment
+loader.ASM(616): error A2086: Data emitted with no segment
+loader.ASM(617): error A2086: Data emitted with no segment
+loader.ASM(618): error A2086: Data emitted with no segment
+loader.ASM(626): error A2086: Data emitted with no segment
+loader.ASM(627): error A2062: Missing or unreachable CS
+loader.ASM(628): error A2086: Data emitted with no segment
+loader.ASM(629): error A2086: Data emitted with no segment
+loader.ASM(630): error A2086: Data emitted with no segment
+loader.ASM(631): error A2086: Data emitted with no segment
+loader.ASM(632): error A2086: Data emitted with no segment
+loader.ASM(633): error A2086: Data emitted with no segment
+loader.ASM(634): error A2086: Data emitted with no segment
+loader.ASM(635): error A2086: Data emitted with no segment
+loader.ASM(636): error A2086: Data emitted with no segment
+loader.ASM(637): error A2086: Data emitted with no segment
+loader.ASM(638): error A2086: Data emitted with no segment
+loader.ASM(639): error A2086: Data emitted with no segment
+loader.ASM(640): error A2086: Data emitted with no segment
+loader.ASM(641): error A2086: Data emitted with no segment
+loader.ASM(642): error A2086: Data emitted with no segment
+loader.ASM(643): error A2086: Data emitted with no segment
+loader.ASM(644): error A2086: Data emitted with no segment
+loader.ASM(645): error A2086: Data emitted with no segment
+loader.ASM(646): error A2062: Missing or unreachable CS
+loader.ASM(647): error A2086: Data emitted with no segment
+loader.ASM(648): error A2086: Data emitted with no segment
+loader.ASM(649): error A2086: Data emitted with no segment
+loader.ASM(650): error A2086: Data emitted with no segment
+loader.ASM(651): error A2086: Data emitted with no segment
+loader.ASM(652): error A2086: Data emitted with no segment
+loader.ASM(653): error A2086: Data emitted with no segment
+loader.ASM(654): error A2086: Data emitted with no segment
+loader.ASM(655): error A2086: Data emitted with no segment
+loader.ASM(656): error A2086: Data emitted with no segment
+loader.ASM(657): error A2086: Data emitted with no segment
+loader.ASM(658): error A2086: Data emitted with no segment
+loader.ASM(659): error A2086: Data emitted with no segment
+loader.ASM(660): error A2086: Data emitted with no segment
+loader.ASM(661): error A2086: Data emitted with no segment
+loader.ASM(662): error A2086: Data emitted with no segment
+loader.ASM(663): error A2086: Data emitted with no segment
+loader.ASM(664): error A2086: Data emitted with no segment
+loader.ASM(665): error A2062: Missing or unreachable CS
+loader.ASM(666): error A2086: Data emitted with no segment
+loader.ASM(667): error A2086: Data emitted with no segment
+loader.ASM(668): error A2086: Data emitted with no segment
+loader.ASM(669): error A2086: Data emitted with no segment
+loader.ASM(670): error A2086: Data emitted with no segment
+loader.ASM(671): error A2086: Data emitted with no segment
+loader.ASM(672): error A2086: Data emitted with no segment
+loader.ASM(673): error A2086: Data emitted with no segment
+loader.ASM(674): error A2086: Data emitted with no segment
+loader.ASM(675): error A2086: Data emitted with no segment
+loader.ASM(676): error A2086: Data emitted with no segment
+loader.ASM(677): error A2086: Data emitted with no segment
+loader.ASM(678): error A2086: Data emitted with no segment
+loader.ASM(679): error A2086: Data emitted with no segment
+loader.ASM(680): error A2086: Data emitted with no segment
+loader.ASM(681): error A2086: Data emitted with no segment
+loader.ASM(682): error A2086: Data emitted with no segment
+loader.ASM(683): error A2086: Data emitted with no segment
+loader.ASM(684): error A2062: Missing or unreachable CS
+loader.ASM(685): error A2086: Data emitted with no segment
+loader.ASM(686): error A2086: Data emitted with no segment
+loader.ASM(687): error A2086: Data emitted with no segment
+loader.ASM(688): error A2086: Data emitted with no segment
+loader.ASM(689): error A2086: Data emitted with no segment
+loader.ASM(690): error A2086: Data emitted with no segment
+loader.ASM(691): error A2086: Data emitted with no segment
+loader.ASM(692): error A2086: Data emitted with no segment
+loader.ASM(693): error A2086: Data emitted with no segment
+loader.ASM(694): error A2086: Data emitted with no segment
+loader.ASM(695): error A2086: Data emitted with no segment
+loader.ASM(696): error A2086: Data emitted with no segment
+loader.ASM(697): error A2086: Data emitted with no segment
+loader.ASM(698): error A2086: Data emitted with no segment
+loader.ASM(699): error A2086: Data emitted with no segment
+loader.ASM(700): error A2086: Data emitted with no segment
+loader.ASM(701): error A2086: Data emitted with no segment
+loader.ASM(702): error A2086: Data emitted with no segment
+End of file encountered on input file
+loader.ASM(715): warning A4085: End of file, no END directive
+
+  47660 + 347396 Bytes symbol space free
+
+     17 Warning Errors
+    521 Severe  Errors

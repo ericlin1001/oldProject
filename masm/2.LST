@@ -1,0 +1,68 @@
+Microsoft (R) Macro Assembler Version 5.00                  8/6/11 11:44:35
+                                                             Page     1-1
+
+
+       1 0000				DSEG SEGMENT 
+       2 0000  48 45 4C 4C 4F 20 57	MESS DB "HELLO WOLRD!I'M ERICLIN" 
+       3       4F 4C 52 44 21 49 27	
+       4       4D 20 45 52 49 43 4C	
+       5       49 4E			
+       6 0017  0017			LENG DW $ - MESS 
+       7 0019				DSEG ENDS 
+       8				 
+       9 0000				CSEG SEGMENT 
+      10				ASSUME CS:CSEG,DS:DSEG 
+      11 0000				START: 
+      12 0000  B8 ---- R		MOV AX,DSEG 
+      13 0003  8E D8			MOV DS,AX 
+      14				 
+      15 0005  8D 36 0000 R		LEA SI,MESS 
+      16 0009  8B 0E 0017 R		MOV CX,LENG 
+      17 000D				DISP: 
+      18 000D  8A 14			MOV DL,[SI] 
+      19 000F  B4 02			MOV AH,02H 
+      20 0011  CD 21			INT 21H 
+      21 0013  46			INC SI 
+      22 0014  E2 F7			LOOP DISP 
+      23				 
+      24 0016				EXIT: 
+      25 0016  B4 4C			MOV AH,4CH 
+      26 0018  CD 21			INT 21H 
+      27 001A				CSEG ENDS 
+      28				END START 
+Microsoft (R) Macro Assembler Version 5.00                  8/6/11 11:44:35
+                                                             Symbols-1
+
+
+Segments and Groups:
+
+                N a m e         	Length	 Align	Combine Class
+
+CSEG . . . . . . . . . . . . . .  	001A	PARA	NONE	
+DSEG . . . . . . . . . . . . . .  	0019	PARA	NONE	
+
+Symbols:            
+
+                N a m e         	Type	 Value	 Attr
+
+DISP . . . . . . . . . . . . . .  	L NEAR	000D	CSEG
+
+EXIT . . . . . . . . . . . . . .  	L NEAR	0016	CSEG
+
+LENG . . . . . . . . . . . . . .  	L WORD	0017	DSEG
+
+MESS . . . . . . . . . . . . . .  	L BYTE	0000	DSEG
+
+START  . . . . . . . . . . . . .  	L NEAR	0000	CSEG
+
+@FILENAME  . . . . . . . . . . .  	TEXT  2DOS		
+
+
+     25 Source  Lines
+     25 Total   Lines
+      9 Symbols
+
+  49008 + 399728 Bytes symbol space free
+
+      0 Warning Errors
+      0 Severe  Errors

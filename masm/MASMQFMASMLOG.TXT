@@ -1,0 +1,8 @@
+Microsoft (R) Macro Assembler Version 5.00 
+Copyright (C) Microsoft Corp 1981-1985, 1987.  All rights reserved.
+
+Object filename [DWRITES.OBJ]: Source listing  [NUL.LST]: Cross-reference [NUL.CRF]: 
+  49954 + 415038 Bytes symbol space free
+
+      0 Warning Errors
+      0 Severe  Errors

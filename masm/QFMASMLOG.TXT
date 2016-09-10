@@ -1,0 +1,10 @@
+****************************MASM DWRITES.ASM****************************
+Object filename [DWRITES.OBJ]: Source listing  [NUL.LST]: Cross-reference [NUL.CRF]: 
+49954 + 415038 Bytes symbol space free
+0 Warning Errors
+0 Severe  Errors
+****************************END MASM DWRITES.ASM****************************
+
+****************************LINK DWRITES.OBJ****************************
+LINK : warning L4021: no stack segment
+****************************END LINK DWRITES.OBJ**************************
