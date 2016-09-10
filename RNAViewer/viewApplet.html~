@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>viewApplet</title>
+	</head>
+	<body>
+		<p>
+		<applet code="hello.class" width="300" height="200">
+		<param name="matches" value="01001000101"/>
+		<param name="seqs"    value="aucgacugaca"/>
+		</applet>
+		</p>
+	</body>
+</html>
