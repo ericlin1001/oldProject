@@ -1,0 +1,10 @@
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+    controlShutdown    REG_SZ    D:\bat\controlShutdown.bat
+
+ËÑË÷½áÊø: ÕÒµ½ 1 Æ¥Åä¡£
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+    controlShutdown    REG_SZ    D:\bat\controlShutdown.bat
+
+ËÑË÷½áÊø: ÕÒµ½ 1 Æ¥Åä¡£

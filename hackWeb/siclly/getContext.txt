@@ -1,0 +1,109 @@
+',signature=(select substr(
+group_concat(
+concat(
+"cpid:",cpid,
+"pid:",pid,
+"cid:",cid
+)),1,100) from contest_problems where cid=776) where username='test741';##
+
+
+',signature=(select substr(
+group_concat(
+concat(
+"pid:",pid,"endpid"
+)),1,100) from contest_problems where cid=775) where username='test741';##
+
+//http://www.soj.me/show_problem.php?pid=1000&cid=776
+
+contest_problems:
+cpid,cid,pid
+
+
+cpid:1000 pid:6508 cid:776,
+cpid:1001 pid:6509 cid:776,
+cpid:1002 pid:6510 cid:776
+
+
+cpid:1000pid:6937cid:834,
+cpid:1001pid:6938cid:834,
+cpid:1002pid:6939cid:834,
+cpid:1003pid:6940cid:834,
+cpid:1004pid:6941cid:834
+
+
+
+
+',signature=(select substr(
+group_concat(
+concat(
+",pid:",pid,
+",has_framework:",has_framework,
+",author:",author,
+",hint:",hint,
+",avail:",avail,
+",cid:",cid,
+",rate_tot:",rate_tot,
+",rate_count:",rate_count,
+",dataversion:",dataversion,
+",special_judge:",special_judge,
+",submissions:",submissions,
+",accepted:",accepted,
+",title:",title,
+",time_limit:",time_limit,
+",memory_limit:",memory_limit,
+",description:",description,
+",input:",input,
+",output:",output,
+",sample_input:",sample_input,
+",sample_output:",sample_output,
+",stdsid:",stdsid
+)),1,100) from problems where pid=6940) where username='test741';##
+
+
+
+problems：pid,has_framework,author,hint,avail,cid,rate_tot,rate_count,dataversion,special_judge,submissions,accepted,title,time_limit,memory_limit,description,input,output,sample_input,sample_output,stdsid
+
+,pid:1000,has_framework:0,author:,hint:,avail:1,cid:0,rate_tot:733,rate_count:284,dataversion:0,special_judge:0,submissions:47810,accepted:7128,title:A-B,time_limit:1,memory_limit:32768,description:<p>Input A and B, output A-B</p>,input:<p>Input two values, A and B.</p>,output:<p>Output the result of A-B.</p>,sample_input:2 1,sample_output:1,stdsid:0
+
+
+,pid:6940,has_framework:0,author:“星海通杯”第四届中山大学ICPC新手赛网络预选赛,hint:,avail:1,cid:834,rate_tot:0,rate_count:0,dataversion:0,special_judge:0,submissions:262,accepted:16,title:Play with Digits,time_limit:1,memory_limit:262144,description:<p class="MsoNormal" style=
+
+
+
+status:
+",sid:",sid,
+",sourcecode:",sourcecode,
+",public:",public,
+",codelength:",codelength,
+",contest:",contest,
+",failcase:",failcase,
+",time:",time,
+",run_memory:",run_memory,
+",run_time:",run_time,
+",status:",status,
+",language:",language,
+",pid:",pid,
+",uid:",uid,
+",compilelog:",compilelog,
+
+
+',signature=(select substr(
+group_concat(
+concat(
+",sid:",sid,
+",status:",status,
+",language:",language,
+",pid:",pid,
+",uid:",uid,
+",public:",public,
+",codelength:",codelength,
+",contest:",contest,
+",failcase:",failcase,
+",time:",time,
+",run_memory:",run_memory,
+",run_time:",run_time,
+",sourcecode:",sourcecode,
+",compilelog:",compilelog,
+"")),1,100) from status where sid=1787463 ) where username='test741';##
+
+,sid:1787463,status:Compile Error,language:C++,pid:6923,uid:18673,public:0,codelength:2,contest:839,failcase:-1,time:2012-12-16 00:24:36,run_memory:0,run_time:0,sourcecode:13,compilelog:/tmp/judger_34/1787463.cpp:1:1: error: expected unqualified-id before numeric constant

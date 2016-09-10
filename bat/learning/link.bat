@@ -1,0 +1,1 @@
+net use \\%1\ipc$ "%3" /user:"%2"

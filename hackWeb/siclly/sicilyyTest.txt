@@ -1,0 +1,23 @@
+error from Query()
+Last error:update user set nickname='ericlin',signature='here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.here.'',email='nameljh@sina.com',phone='',address='',cn_name='ÁÖ¿¡ºÆ',en_name='',gender='',major='Computer Sciences',grade='2011',class='2',student_id='11348076' where uid=14706
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nameljh@sina.com',phone='',address='',cn_name='ÁÖ¿¡ºÆ',en_name='',gender='',m' at line 1
+
+test741-741-2e65f2f2fdaf6c699b22-uid=18673
+test951-951-1c1d4df596d01da60385
+test753-753-6f2268bd1d3d3ebaabb0-741
+
+',signature=password where username='' #
+
+username-pass-encrytedPass(20)
+newtest1-1-c4ca4238a0b923820dcc
+newtest2-2-c81e728d9d4c2f636f06
+newtest3-3-eccbc87e4b5ce2fe2830
+newtest4-4-a87ff679a2f3e71d9181
+newtest5-5
+sametest1-1-c4ca4238a0b923820dcc
+test741-741-2e65f2f2fdaf6c699b22
+get Encrypted Password:
+',signature=password where username='test741' ##
+
+',password='c4ca4238a0b923820dcc' where username='test741'#
+',username='newtemp1' where username='tempaccount'#

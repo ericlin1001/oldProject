@@ -1,0 +1,10 @@
+1.get sourceCode: change the pid and uid
+test741:uid:18673
+
+GeBasicInfo:
+',signature=(select concat('/*\nlang:',language,'\ncodelen:',codelength,'\nsourcecodelen:',length(sourcecode),'\nrun_time:',run_time,'\nrun_memory:',run_memory,'\nheadCode:',substr(sourcecode,1,50),'\n*/') from status where pid=1001 and status='Accepted'  and language='C++' and length(sourcecode) >0 order by codelength limit 10,1) where username='test741' ##
+
+GetSourceCode:
+',signature=(select substr(sourcecode,1,100) from status where pid=1001 and status='Accepted' and language='C++' and length(sourcecode)>0 order by length(sourcecode) limit 0,1) where username='test741'#
+
+

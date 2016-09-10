@@ -1,0 +1,4 @@
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+LINK : fatal error LNK1181: cannot open input file "test.OBJ"
